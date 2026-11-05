@@ -1,0 +1,159 @@
+antecedents,consequents,support,confidence,lift,baskets,fisher_p,significant
+Cellphone Load 100,"Pandesal, Royal Mismo",0.056,0.263,2.961,5,0.009,True
+"Pandesal, Royal Mismo",Cellphone Load 100,0.056,0.625,2.961,5,0.009,True
+"Coke Mismo, Kopiko 3-in-1",Egg,0.056,0.833,2.679,5,0.01,True
+Egg,"Coke Mismo, Kopiko 3-in-1",0.056,0.179,2.679,5,0.01,True
+"Egg, Lucky Me Beef Noodles",Coke Mismo,0.056,0.714,2.571,5,0.016,True
+Coke Mismo,"Egg, Lucky Me Beef Noodles",0.056,0.2,2.571,5,0.016,True
+"Cellphone Load 100, Royal Mismo",Pandesal,0.056,1.0,2.5,5,0.009,True
+"Coke Mismo, Egg",Lucky Me Beef Noodles,0.056,0.417,2.5,5,0.026,True
+Lucky Me Beef Noodles,"Coke Mismo, Egg",0.056,0.333,2.5,5,0.026,True
+Pandesal,"Cellphone Load 100, Royal Mismo",0.056,0.139,2.5,5,0.009,True
+"Ice Candy, Pandesal",Tasty Bread,0.056,0.357,2.473,5,0.027,True
+Tasty Bread,"Ice Candy, Pandesal",0.056,0.385,2.473,5,0.027,True
+"Coke Mismo, Lucky Me Beef Noodles",Egg,0.056,0.714,2.296,5,0.028,True
+Egg,"Coke Mismo, Lucky Me Beef Noodles",0.056,0.179,2.296,5,0.028,True
+Sugar (kilo),Royal Mismo,0.067,0.429,2.269,6,0.022,True
+Royal Mismo,Sugar (kilo),0.067,0.353,2.269,6,0.022,True
+"Egg, Kopiko 3-in-1",Coke Mismo,0.056,0.625,2.25,5,0.035,True
+Coke Mismo,"Egg, Kopiko 3-in-1",0.056,0.2,2.25,5,0.035,True
+Palmolive Soap,Shampoo Sachet,0.089,0.571,2.236,8,0.006,True
+Shampoo Sachet,Palmolive Soap,0.089,0.348,2.236,8,0.006,True
+"Coke Mismo, Pandesal",Cellphone Load 100,0.056,0.455,2.153,5,0.05,True
+Cellphone Load 100,"Coke Mismo, Pandesal",0.056,0.263,2.153,5,0.05,True
+"Ice Candy, Pandesal",Cellphone Load 100,0.067,0.429,2.03,6,0.041,True
+Cellphone Load 100,"Ice Candy, Pandesal",0.067,0.316,2.03,6,0.041,True
+Coke Mismo,Cooking Oil Pouch,0.067,0.24,1.964,6,0.044,True
+Cooking Oil Pouch,Coke Mismo,0.067,0.545,1.964,6,0.044,True
+"Cellphone Load 100, Ice Candy",Pandesal,0.067,0.75,1.875,6,0.042,True
+Pandesal,"Cellphone Load 100, Ice Candy",0.067,0.167,1.875,6,0.042,True
+Pandesal,Cellphone Load 100,0.156,0.389,1.842,14,0.001,True
+Cellphone Load 100,Pandesal,0.156,0.737,1.842,14,0.001,True
+Tide Sachet,Egg,0.122,0.5,1.607,11,0.028,True
+Egg,Tide Sachet,0.122,0.393,1.607,11,0.028,True
+Coke Mismo,Egg,0.133,0.48,1.543,12,0.031,True
+Egg,Coke Mismo,0.133,0.429,1.543,12,0.031,True
+Royal Mismo,"Cellphone Load 100, Pandesal",0.056,0.294,1.891,5,0.089,False
+"Cellphone Load 100, Pandesal",Royal Mismo,0.056,0.357,1.891,5,0.089,False
+Tasty Bread,Cellphone Load 100,0.056,0.385,1.822,5,0.102,False
+Cellphone Load 100,Tasty Bread,0.056,0.263,1.822,5,0.102,False
+Ice Candy,"Pandesal, Tasty Bread",0.056,0.161,1.815,5,0.09,False
+"Pandesal, Tasty Bread",Ice Candy,0.056,0.625,1.815,5,0.09,False
+"Ice Candy, Tasty Bread",Pandesal,0.056,0.714,1.786,5,0.087,False
+Pandesal,"Ice Candy, Tasty Bread",0.056,0.139,1.786,5,0.087,False
+Bottled Water 500ml,Shampoo Sachet,0.056,0.455,1.779,5,0.109,False
+Shampoo Sachet,Bottled Water 500ml,0.056,0.217,1.779,5,0.109,False
+Tasty Bread,Nescafe 3-in-1,0.056,0.385,1.731,5,0.125,False
+Nescafe 3-in-1,Tasty Bread,0.056,0.25,1.731,5,0.125,False
+Cooking Oil Pouch,Cellphone Load 50,0.056,0.455,1.705,5,0.129,False
+Cellphone Load 50,Cooking Oil Pouch,0.056,0.208,1.705,5,0.129,False
+Coke Mismo,Lucky Me Beef Noodles,0.078,0.28,1.68,7,0.074,False
+Lucky Me Beef Noodles,Coke Mismo,0.078,0.467,1.68,7,0.074,False
+Cellphone Load 50,Rice (kilo),0.078,0.292,1.641,7,0.085,False
+Rice (kilo),Cellphone Load 50,0.078,0.438,1.641,7,0.085,False
+Cellphone Load 50,Sugar (kilo),0.067,0.25,1.607,6,0.124,False
+Sugar (kilo),Cellphone Load 50,0.067,0.429,1.607,6,0.124,False
+Tasty Bread,Ice Candy,0.078,0.538,1.563,7,0.103,False
+Ice Candy,Tasty Bread,0.078,0.226,1.563,7,0.103,False
+Pandesal,"Cellphone Load 100, Coke Mismo",0.056,0.139,1.562,5,0.163,False
+"Cellphone Load 100, Coke Mismo",Pandesal,0.056,0.625,1.562,5,0.163,False
+Tasty Bread,Pandesal,0.089,0.615,1.538,8,0.081,False
+Pandesal,Tasty Bread,0.089,0.222,1.538,8,0.081,False
+Rice (kilo),Tide Sachet,0.067,0.375,1.534,6,0.154,False
+Tide Sachet,Rice (kilo),0.067,0.273,1.534,6,0.154,False
+Coke Mismo,Cellphone Load 100,0.089,0.32,1.516,8,0.102,False
+Cellphone Load 100,Coke Mismo,0.089,0.421,1.516,8,0.102,False
+Sky Flakes,Pandesal,0.1,0.6,1.5,9,0.076,False
+Pandesal,Sky Flakes,0.1,0.25,1.5,9,0.076,False
+Lucky Me Beef Noodles,Egg,0.078,0.467,1.5,7,0.132,False
+Egg,Lucky Me Beef Noodles,0.078,0.25,1.5,7,0.132,False
+Kopiko 3-in-1,"Coke Mismo, Egg",0.056,0.2,1.5,5,0.206,False
+"Coke Mismo, Egg",Kopiko 3-in-1,0.056,0.417,1.5,5,0.206,False
+Lucky Me Pancit Canton,Cellphone Load 50,0.122,0.393,1.473,11,0.061,False
+Cellphone Load 50,Lucky Me Pancit Canton,0.122,0.458,1.473,11,0.061,False
+Lucky Me Pancit Canton,Nescafe 3-in-1,0.1,0.321,1.446,9,0.108,False
+Nescafe 3-in-1,Lucky Me Pancit Canton,0.1,0.45,1.446,9,0.108,False
+Coke Mismo,Sky Flakes,0.067,0.24,1.44,6,0.197,False
+Sky Flakes,Coke Mismo,0.067,0.4,1.44,6,0.197,False
+Lucky Me Beef Noodles,Kopiko 3-in-1,0.067,0.4,1.44,6,0.197,False
+Kopiko 3-in-1,Lucky Me Beef Noodles,0.067,0.24,1.44,6,0.197,False
+Piattos,Cellphone Load 50,0.067,0.375,1.406,6,0.217,False
+Cellphone Load 50,Piattos,0.067,0.25,1.406,6,0.217,False
+Royal Mismo,Cellphone Load 100,0.056,0.294,1.393,5,0.266,False
+Cellphone Load 100,Royal Mismo,0.056,0.263,1.393,5,0.266,False
+Tasty Bread,Coke Mismo,0.056,0.385,1.385,5,0.269,False
+Coke Mismo,Tasty Bread,0.056,0.2,1.385,5,0.269,False
+Lucky Me Pancit Canton,Palmolive Soap,0.067,0.214,1.378,6,0.232,False
+Palmolive Soap,Lucky Me Pancit Canton,0.067,0.429,1.378,6,0.232,False
+Lucky Me Pancit Canton,Sugar (kilo),0.067,0.214,1.378,6,0.232,False
+Sugar (kilo),Lucky Me Pancit Canton,0.067,0.429,1.378,6,0.232,False
+Egg,Palmolive Soap,0.067,0.214,1.378,6,0.232,False
+Palmolive Soap,Egg,0.067,0.429,1.378,6,0.232,False
+Cooking Oil Pouch,Pandesal,0.067,0.545,1.364,6,0.233,False
+Pandesal,Cooking Oil Pouch,0.067,0.167,1.364,6,0.233,False
+Kopiko 3-in-1,Cellphone Load 50,0.1,0.36,1.35,9,0.164,False
+Cellphone Load 50,Kopiko 3-in-1,0.1,0.375,1.35,9,0.164,False
+Datu Puti Soy Sauce,Egg,0.056,0.417,1.339,5,0.296,False
+Egg,Datu Puti Soy Sauce,0.056,0.179,1.339,5,0.296,False
+Ice Candy,Bottled Water 500ml,0.056,0.161,1.32,5,0.308,False
+Bottled Water 500ml,Ice Candy,0.056,0.455,1.32,5,0.308,False
+Sky Flakes,Shampoo Sachet,0.056,0.333,1.304,5,0.323,False
+Shampoo Sachet,Sky Flakes,0.056,0.217,1.304,5,0.323,False
+Cellphone Load 100,Tide Sachet,0.067,0.316,1.292,6,0.296,False
+Tide Sachet,Cellphone Load 100,0.067,0.273,1.292,6,0.296,False
+Lucky Me Pancit Canton,Lucky Me Beef Noodles,0.067,0.214,1.286,6,0.299,False
+Lucky Me Beef Noodles,Lucky Me Pancit Canton,0.067,0.4,1.286,6,0.299,False
+Sugar (kilo),Kopiko 3-in-1,0.056,0.357,1.286,5,0.336,False
+Kopiko 3-in-1,Sugar (kilo),0.056,0.2,1.286,5,0.336,False
+"Cellphone Load 100, Pandesal",Coke Mismo,0.056,0.357,1.286,5,0.336,False
+Coke Mismo,"Cellphone Load 100, Pandesal",0.056,0.2,1.286,5,0.336,False
+Shampoo Sachet,Egg,0.1,0.391,1.258,9,0.239,False
+Egg,Shampoo Sachet,0.1,0.321,1.258,9,0.239,False
+Datu Puti Soy Sauce,Pandesal,0.067,0.5,1.25,6,0.325,False
+Pandesal,Datu Puti Soy Sauce,0.067,0.167,1.25,6,0.325,False
+Sugar (kilo),Pandesal,0.078,0.5,1.25,7,0.294,False
+Pandesal,Sugar (kilo),0.078,0.194,1.25,7,0.294,False
+Ice Candy,Palmolive Soap,0.067,0.194,1.244,6,0.333,False
+Palmolive Soap,Ice Candy,0.067,0.429,1.244,6,0.333,False
+"Cellphone Load 100, Pandesal",Ice Candy,0.067,0.429,1.244,6,0.333,False
+Ice Candy,"Cellphone Load 100, Pandesal",0.067,0.194,1.244,6,0.333,False
+Tide Sachet,Nescafe 3-in-1,0.067,0.273,1.227,6,0.35,False
+Nescafe 3-in-1,Tide Sachet,0.067,0.3,1.227,6,0.35,False
+Cellphone Load 100,Ice Candy,0.089,0.421,1.222,8,0.298,False
+Ice Candy,Cellphone Load 100,0.089,0.258,1.222,8,0.298,False
+Egg,Rice (kilo),0.067,0.214,1.205,6,0.37,False
+Rice (kilo),Egg,0.067,0.375,1.205,6,0.37,False
+Royal Mismo,Tide Sachet,0.056,0.294,1.203,5,0.402,False
+Tide Sachet,Royal Mismo,0.056,0.227,1.203,5,0.402,False
+Cellphone Load 50,Tide Sachet,0.078,0.292,1.193,7,0.356,False
+Tide Sachet,Cellphone Load 50,0.078,0.318,1.193,7,0.356,False
+Cellphone Load 100,Egg,0.078,0.368,1.184,7,0.365,False
+Egg,Cellphone Load 100,0.078,0.25,1.184,7,0.365,False
+Royal Mismo,Pandesal,0.089,0.471,1.176,8,0.347,False
+Pandesal,Royal Mismo,0.089,0.222,1.176,8,0.347,False
+Pandesal,Cellphone Load 50,0.122,0.306,1.146,11,0.329,False
+Cellphone Load 50,Pandesal,0.122,0.458,1.146,11,0.329,False
+Tide Sachet,Coke Mismo,0.078,0.318,1.145,7,0.408,False
+Coke Mismo,Tide Sachet,0.078,0.28,1.145,7,0.408,False
+Pandesal,Ice Candy,0.156,0.389,1.129,14,0.308,False
+Ice Candy,Pandesal,0.156,0.452,1.129,14,0.308,False
+Nescafe 3-in-1,Pandesal,0.1,0.45,1.125,9,0.395,False
+Pandesal,Nescafe 3-in-1,0.1,0.25,1.125,9,0.395,False
+Kopiko 3-in-1,Rice (kilo),0.056,0.2,1.125,5,0.474,False
+Rice (kilo),Kopiko 3-in-1,0.056,0.312,1.125,5,0.474,False
+Coke Mismo,Pandesal,0.122,0.44,1.1,11,0.403,False
+Pandesal,Coke Mismo,0.122,0.306,1.1,11,0.403,False
+Pandesal,Rice (kilo),0.078,0.194,1.094,7,0.473,False
+Rice (kilo),Pandesal,0.078,0.438,1.094,7,0.473,False
+Sky Flakes,Egg,0.056,0.333,1.071,5,0.53,False
+Egg,Sky Flakes,0.056,0.179,1.071,5,0.53,False
+Royal Mismo,Kopiko 3-in-1,0.056,0.294,1.059,5,0.542,False
+Kopiko 3-in-1,Royal Mismo,0.056,0.2,1.059,5,0.542,False
+Coke Mismo,Royal Mismo,0.056,0.2,1.059,5,0.542,False
+Royal Mismo,Coke Mismo,0.056,0.294,1.059,5,0.542,False
+Egg,Kopiko 3-in-1,0.089,0.286,1.029,8,0.55,False
+Kopiko 3-in-1,Egg,0.089,0.32,1.029,8,0.55,False
+Nescafe 3-in-1,Ice Candy,0.078,0.35,1.016,7,0.576,False
+Ice Candy,Nescafe 3-in-1,0.078,0.226,1.016,7,0.576,False
+Lucky Me Pancit Canton,Rice (kilo),0.056,0.179,1.004,5,0.603,False
+Rice (kilo),Lucky Me Pancit Canton,0.056,0.312,1.004,5,0.603,False

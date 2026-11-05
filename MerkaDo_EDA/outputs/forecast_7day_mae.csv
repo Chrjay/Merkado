@@ -1,0 +1,8 @@
+,Naive (last week),7-day MA,Holt-Winters,Linear regression,Croston (SBA),Best,Bias,MASE,Demand type
+TOTAL (all products),35.3,35.3,26.6,34.8,27.2,Holt-Winters,-0.1,0.52,aggregate
+Pandesal,29.0,29.0,28.4,21.9,27.1,Linear regression,-2.1,0.78,intermittent
+Egg,13.6,13.6,14.4,20.4,14.5,Naive (last week),5.0,1.03,intermittent
+Ice Candy,20.7,20.7,14.5,15.4,15.4,Holt-Winters,-2.7,1.27,intermittent
+Kopiko 3-in-1,20.4,20.4,12.7,16.4,13.4,Holt-Winters,-4.3,0.97,intermittent
+Shampoo Sachet,15.3,15.3,12.7,15.1,12.9,Holt-Winters,4.9,1.04,intermittent
+Nescafe 3-in-1,14.7,14.7,11.3,11.4,8.8,Croston (SBA),-2.1,1.14,intermittent

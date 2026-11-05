@@ -1,0 +1,10 @@
+.venv/
+node_modules/
+dist/
+.env
+.env.local
+*.log
+.ipynb_checkpoints/
+merkado-app/test-results/
+merkado-app/playwright-report/
+.vercel

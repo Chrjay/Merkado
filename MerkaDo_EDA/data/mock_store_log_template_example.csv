@@ -1,0 +1,850 @@
+Date,Time,Trans ID,Item,Category,Qty Sold,Unit Price,Unit Cost,Payment Type,Stockout,is_rainy,Pack size sold,Store open
+2026-11-02,06:08,T00001,kopiko 3in1,Beverages,1,8.0,6.0,Utang,0.0,0.0,pc,1
+2026-11-02,11:37,T00016,Pandesal,Bakery,2,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-02,19:52,T00017,Rice (kilo),Staples,3,55.0,50.0,GCash,0.0,0.0,pc,1
+2026-11-02,19:52,T00017,KOPIKO 3-IN-1,Beverages,2,8.0,6.0,GCash,0.0,0.0,pc,1
+2026-11-02,09:08,T00018,Ice Candy,Snacks,1,5.0,3.0,Cash,0.0,0.0,pc,1
+2026-11-02,16:46,T00019,Lucky Me Pancit Canton,Noodles,1,15.0,12.0,Cash,0.0,0.0,pc,1
+2026-11-02,12:13,T00020,Kopiko 3-in-1,Beverages,2,8.0,6.0,Utang,0.0,0.0,pc,1
+2026-11-02,06:12,T00021,Kopiko 3-in-1,Beverages,3,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-02,08:58,T00022,Piattos,Snacks,3,17.0,14.0,GCash,0.0,0.0,pc,1
+2026-11-02,10:01,T00015,Bottled Water 500ml,Beverages,2,15.0,11.0,Cash,0.0,0.0,pc,1
+2026-11-02,11:55,T00023,Nescafe 3-in-1,Beverages,1,9.0,7.0,GCash,0.0,0.0,pc,1
+2026-11-02,13:16,T00024,Pandesal,Bakery,3,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-02,13:16,T00024,Egg,Staples,3,9.0,7.0,Cash,0.0,0.0,pc,1
+2026-11-02,13:16,T00024,Tide Sachet,Household,1,12.0,9.0,Cash,0.0,0.0,pc,1
+2026-11-02,17:41,T00025,Ice Candy,Snacks,1,5.0,3.0,Cash,0.0,0.0,pc,1
+2026-11-02,17:41,T00025,Shampoo Sachet,Household,1,8.0,6.0,Cash,0.0,0.0,banig,1
+2026-11-02,17:41,T00025,Lucky Me Beef Noodles,Noodles,2,13.0,10.0,Cash,0.0,0.0,pc,1
+2026-11-02,10:08,T00026,Egg,Staples,2,9.0,7.0,Utang,0.0,0.0,pc,1
+2026-11-02,10:08,T00026,Tide Sachet,Household,3,12.0,9.0,Utang,0.0,0.0,pc,1
+2026-11-02,11:55,T00023,Cooking Oil Pouch,Staples,2,25.0,21.0,GCash,0.0,0.0,pc,1
+2026-11-02,10:01,T00015,Lucky Me Beef Noodles,Noodles,3,13.0,10.0,Cash,0.0,0.0,pc,1
+2026-11-02,12:13,T00020,Pandesal,Bakery,2,3.0,2.0,Utang,0.0,0.0,pc,1
+2026-11-02,16:46,T00014,Royal Mismo,Beverages,3,20.0,16.0,Cash,0.0,0.0,pc,1
+2026-11-02,06:08,T00001,Lucky Me Pancit Canton,Noodles,2,15.0,12.0,Utang,0.0,0.0,pc,1
+2026-11-02,06:08,T00001,Royal Mismo,Beverages,3,20.0,16.0,Utang,0.0,0.0,pc,1
+2026-11-02,16:46,T00014,Coke Mismo,Beverages,3,20.0,16.0,Cash,0.0,0.0,pc,1
+2026-11-02,18:19,T00002,Lucky Me Pancit Canton,Noodles,1,15.0,12.0,GCash,0.0,0.0,pc,1
+2026-11-02,09:01,T00003,Nescafe 3-in-1,Beverages,3,9.0,7.0,Cash,0.0,0.0,pc,1
+2026-11-02,09:01,T00003,Tide Sachet,Household,1,12.0,9.0,Cash,0.0,0.0,pc,1
+2026-11-02,19:16,T00004,Tide Sachet,Household,1,12.0,9.0,Cash,0.0,0.0,pc,1
+2026-11-02,19:16,T00004,Palmolive Soap,Household,1,30.0,24.0,Cash,0.0,0.0,pc,1
+2026-11-02,15:46,T00005,Pandesal ,Bakery,3,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-02,18:19,T00002,Kopiko 3-in-1,Beverages,3,8.0,6.0,GCash,0.0,0.0,pc,1
+2026-11-02,18:34,T00007,Pandesal,Bakery,2,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-02,18:04,T00008,Egg,Staples,3,9.0,7.0,GCash,0.0,0.0,pc,1
+2026-11-02,18:04,T00008,Rice (kilo),Staples,2,55.0,50.0,GCash,0.0,0.0,pc,1
+2026-11-02,16:51,T00009,Nescafe 3-in-1,Beverages,2,9.0,7.0,Utang,1.0,0.0,pc,1
+2026-11-02,18:38,T00010,Royal Mismo,Beverages,3,20.0,16.0,GCash,0.0,0.0,pc,1
+2026-11-02,16:38,T00011,Tide Sachet,Household,3,12.0,9.0,Utang,0.0,0.0,pc,1
+2026-11-02,11:53,T00012,pandesal,Bakery,3,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-02,12:55,T00013,Shampoo Sachet,Household,1,8.0,6.0,Utang,0.0,0.0,banig,1
+2026-11-02,06:27,T00006,Pandesal,Bakery,2,3.0,2.0,Utang,0.0,0.0,pc,1
+2026-11-03,09:45,T00038,Lucky Me Pancit Canton,Noodles,1,15.0,12.0,Cash,0.0,0.0,pc,1
+2026-11-03,08:09,T00039,Cellphone Load 50,Load,2,50.0,47.0,Cash,0.0,0.0,pc,1
+2026-11-03,11:24,T00040,Shampoo Sachet,Household,1,8.0,6.0,Cash,0.0,0.0,banig,1
+2026-11-03,14:49,T00041,Egg,Staples,2,9.0,7.0,Cash,0.0,0.0,pc,1
+2026-11-03,17:20,T00042,Kopiko 3-in-1,Beverages,2,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-03,17:20,T00042,Shampoo Sachet,Household,1,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-03,17:20,T00042,Lucky Me Pancit Canton,Noodles,3,15.0,12.0,Cash,0.0,0.0,pc,1
+2026-11-03,06:14,T00045,Tasty Bread,Bakery,3,65.0,55.0,GCash,0.0,0.0,pc,1
+2026-11-03,15:48,T00044,Sky Flakes,Snacks,2,8.0,6.0,GCash,0.0,0.0,pc,1
+2026-11-03,15:48,T00044,Pandesal,Bakery,3,3.0,2.0,GCash,0.0,0.0,pc,1
+2026-11-03,17:25,T00046,Ice Candy,Snacks,1,5.0,3.0,Cash,0.0,0.0,pc,1
+2026-11-03,17:25,T00046,Pandesal,Bakery,3,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-03,17:25,T00046,Lucky Me Pancit Cantoon,Noodles,2,15.0,12.0,Cash,0.0,0.0,pc,1
+2026-11-03,09:45,T00038,Pandesal,Bakery,1,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-03,19:27,T00043,Pandesal,Bakery,2,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-03,07:38,T00037,Pandesal ,Bakery,2,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-03,10:30,T00028,Sky Flakes,Snacks,3,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-03,20:57,T00036,Rice (kilo),Staples,2,55.0,50.0,Utang,0.0,0.0,pc,1
+2026-11-03,20:57,T00036,Pandesal,Bakery,3,3.0,2.0,Utang,0.0,0.0,pc,1
+2026-11-03,11:42,T00027,Nescafe 3-in-1,Beverages,2,9.0,7.0,Cash,0.0,0.0,pc,1
+2026-11-03,10:30,T00028,Egg,Staples,3,9.0,7.0,Cash,1.0,0.0,pc,1
+2026-11-03,11:15,T00029,Pandesal,Bakery,1,3.0,2.0,Utang,0.0,0.0,pc,1
+2026-11-03,12:21,T00030,Lucky Me Pancit Canton,Noodles,2,15.0,12.0,GCash,0.0,0.0,pc,1
+2026-11-03,09:08,T00031,Piattos,Snacks,2,17.0,14.0,Cash,0.0,0.0,pc,1
+2026-11-03,12:21,T00030,Cellphone Load 50,Load,2,50.0,47.0,GCash,0.0,0.0,pc,1
+2026-11-03,09:32,T00033,Pandesal,Bakery,1,3.0,2.0,Utang,0.0,0.0,pc,1
+2026-11-03,09:32,T00033,Lucky Me Beef Noodles,Noodles,2,13.0,10.0,Utang,0.0,0.0,pc,1
+2026-11-03,11:40,T00034,Egg,Staples,1,9.0,7.0,Cash,0.0,0.0,pc,1
+2026-11-03,16:30,T00035,Pandesal,Bakery,1,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-03,16:30,T00035,Ice Candy,Snacks,1,5.0,3.0,Cash,0.0,0.0,pc,1
+2026-11-03,16:30,T00035,Egg,Staples,2,9.0,7.0,Cash,0.0,0.0,pc,1
+2026-11-03,18:11,T00032,Ice Candy,Snacks,3,5.0,3.0,GCash,0.0,0.0,pc,1
+2026-11-04,06:33,T00064,Tide Sachet,Household,1,12.0,9.0,Cash,0.0,0.0,pc,1
+2026-11-04,08:28,T00061,Kopiko 3-in-1,Beverages,3,8.0,6.0,GCash,0.0,0.0,pc,1
+2026-11-04,15:17,T00062,Nescafe 3-in-1,Beverages,3,9.0,7.0,Utang,0.0,0.0,pc,1
+2026-11-04,15:17,T00062,Ice Candy,Snacks,3,5.0,3.0,Utang,0.0,0.0,pc,1
+2026-11-04,15:17,T00062,Tide Sachet,Household,1,12.0,9.0,Utang,0.0,0.0,pc,1
+2026-11-04,20:19,T00063,Kopiko 3-in-1,Beverages,3,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-04,19:41,T00065,Lucky Me Pancit Canton,Noodles,1,15.0,12.0,GCash,0.0,0.0,pc,1
+2026-11-04,07:23,T00069,Sky Flakes,Snacks,3,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-04,16:17,T00066,Lucky Me Beef Noodles,Noodles,3,13.0,10.0,Cash,0.0,0.0,pc,1
+2026-11-04,20:25,T00067,Rice (kilo),Staples,1,55.0,50.0,Cash,0.0,0.0,pc,1
+2026-11-04,17:52,T00068,Egg,Staples,2,9.0,7.0,Cash,0.0,0.0,pc,1
+2026-11-04,17:52,T00068,Lucky Me Beef Noodles,Noodles,1,13.0,10.0,Cash,0.0,0.0,pc,1
+2026-11-04,07:23,T00069,Lucky Me Pancit Canton,Noodles,3,15.0,12.0,Cash,0.0,0.0,pc,1
+2026-11-04,18:01,T00060,Kopiko 3-in-1,Beverages,3,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-04,16:17,T00066,Ice Candy,Snacks,1,5.0,3.0,Cash,0.0,0.0,pc,1
+2026-11-04,18:01,T00060,Nescafe 3-in-1,Beverages,3,9.0,7.0,Cash,0.0,0.0,pc,1
+2026-11-04,20:19,T00063,Lucky Me Beef Noodles,Noodles,2,13.0,10.0,Cash,0.0,0.0,pc,1
+2026-11-04,09:09,T00059,Egg,Staples,2,9.0,7.0,Cash,0.0,0.0,pc,1
+2026-11-04,14:23,T00047,Pandesal,Bakery,2,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-04,18:56,T00048,Pandesal,Bakery,1,3.0,2.0,GCash,0.0,0.0,pc,1
+2026-11-04,13:03,T00050,Coke Mismo,Beverages,2,20.0,16.0,GCash,0.0,0.0,pc,1
+2026-11-04,13:16,T00051,Rice (kilo),Staples,1,55.0,50.0,Cash,0.0,0.0,pc,1
+2026-11-04,12:49,T00052,Egg,Staples,3,9.0,7.0,GCash,0.0,0.0,pc,1
+2026-11-04,18:10,T00053,Egg,Staples,1,9.0,7.0,GCash,0.0,0.0,pc,1
+2026-11-04,18:10,T00053,Ice Candy,Snacks,2,5.0,3.0,GCash,0.0,0.0,pc,1
+2026-11-04,18:12,T00049,Tide Sachet,Household,1,12.0,9.0,Cash,0.0,0.0,pc,1
+2026-11-04,13:42,T00055,Nescafe 3-in-1,Beverages,1,9.0,7.0,Cash,0.0,0.0,pc,1
+2026-11-04,09:09,T00059,Tide Sachet,Household,3,12.0,9.0,Cash,0.0,0.0,pc,1
+2026-11-04,15:44,T00056,Royal Mismo,Beverages,2,20.0,16.0,Cash,0.0,0.0,pc,1
+2026-11-04,18:18,T00057,Pandesal ,Bakery,3,3.0,2.0,Utang,0.0,0.0,pc,1
+2026-11-04,12:13,T00058,Kopiko 3-in-1,Beverages,2,8.0,6.0,GCash,0.0,0.0,pc,1
+2026-11-04,09:09,T00059,Lucky Me Pancit Canton,Noodles,2,15.0,12.0,Cash,0.0,0.0,pc,1
+2026-11-04,14:54,T00054,Ice Candy,Snacks,1,5.0,3.0,GCash,0.0,0.0,pc,1
+2026-11-05,20:53,T00080,Nescafe 3-in-1,Beverages,2,9.0,7.0,GCash,0.0,0.0,pc,1
+2026-11-05,12:07,T00081,pandesal,Bakery,2,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-05,12:51,T00082,Pandesal,Bakery,3,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-05,07:40,T00083,Tide Sachet,Household,1,12.0,9.0,Utang,0.0,0.0,pc,1
+2026-11-05,06:20,T00084,Sky Flakes,Snacks,3,8.0,6.0,Utang,0.0,0.0,pc,1
+2026-11-05,12:47,T00085,Egg,Staples,3,9.0,7.0,Cash,0.0,0.0,pc,1
+2026-11-05,12:47,T00085,Ice Candy,Snacks,3,5.0,3.0,Cash,0.0,0.0,pc,1
+2026-11-05,18:16,T00086,Kopiko 3-in-1,Beverages,1,8.0,6.0,GCash,0.0,0.0,pc,1
+2026-11-05,08:17,T00087,Cooking Oil Pouch,Staples,1,25.0,21.0,Cash,0.0,0.0,pc,1
+2026-11-05,20:53,T00080,Lucky Me Pancit Canton,Noodles,2,15.0,12.0,GCash,0.0,0.0,pc,1
+2026-11-05,06:20,T00084,Pandesal,Bakery,3,3.0,2.0,Utang,0.0,0.0,pc,1
+2026-11-05,11:38,T00079,Kopiko 3-in-1,Beverages,1,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-05,11:38,T00079,Pandesal,Bakery,3,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-05,16:52,T00077,Pandesal,Bakery,2,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-05,17:18,T00078,Ice Candy,Snacks,1,5.0,3.0,Cash,0.0,0.0,pc,1
+2026-11-05,08:17,T00070,Kopiko 3-in-1,Beverages,3,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-05,19:41,T00071,Pandesal,Bakery,1,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-05,10:07,T00072,Tide Sachet,Household,3,12.0,9.0,Cash,0.0,0.0,pc,1
+2026-11-05,10:07,T00072,Nescafe 3-in-1,Beverages,3,9.0,7.0,Cash,0.0,0.0,pc,1
+2026-11-05,18:42,T00073,Sky Flakes,Snacks,3,8.0,6.0,Utang,0.0,0.0,pc,1
+2026-11-05,10:07,T00072,Pandesal,Bakery,3,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-05,06:34,T00075,Cellphone Load 50,Load,1,50.0,47.0,GCash,0.0,0.0,pc,1
+2026-11-05,10:51,T00076,Shampoo Sachet,Household,2,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-05,10:51,T00076,Egg,Staples,3,9.0,7.0,Cash,0.0,0.0,pc,1
+2026-11-05,16:52,T00077,Piattos,Snacks,3,17.0,14.0,Cash,0.0,0.0,pc,1
+2026-11-05,11:44,T00074,Lucky Me Pancit Canton,Noodles,2,15.0,12.0,Utang,0.0,0.0,pc,1
+2026-11-06,13:32,T00105,Pandesal,Bakery,3,3.0,2.0,GCash,0.0,0.0,pc,1
+2026-11-06,09:48,T00102,Shampoo Sachet,Household,3,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-06,18:37,T00103,Sugar (kilo),Staples,2,70.0,64.0,Utang,0.0,0.0,pc,1
+2026-11-06,13:56,T00101,KOPIKO 3-IN-1,Beverages,1,8.0,6.0,Utang,0.0,0.0,pc,1
+2026-11-06,18:37,T00103,Egg,Staples,3,9.0,7.0,Utang,0.0,0.0,pc,1
+2026-11-06,10:02,T00104,Ice Candy,Snacks,3,5.0,3.0,Cash,0.0,0.0,pc,1
+2026-11-06,10:02,T00104,Pandesal,Bakery,1,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-06,07:57,T00112,Nescafe 3-in-1,Beverages,3,9.0,7.0,Utang,0.0,0.0,pc,1
+2026-11-06,20:02,T00110,Shampoo Sachet,Household,3,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-06,11:16,T00107,Tasty Bread,Bakery,3,65.0,55.0,GCash,0.0,0.0,pc,1
+2026-11-06,11:16,T00107,Rice (kilo),Staples,1,55.0,50.0,GCash,0.0,0.0,pc,1
+2026-11-06,16:55,T00108,Shampoo Sachet,Household,3,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-06,16:55,T00108,Lucky Me Pancit Canton,Noodles,3,15.0,12.0,Cash,0.0,0.0,pc,1
+2026-11-06,19:57,T00109,Kopiko 3-in-1,Beverages,3,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-06,20:02,T00110,Kopiko 3-in-1,Beverages,1,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-06,17:34,T00111,KOPIKO 3-IN-1,Beverages,2,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-06,13:56,T00101,Tide Sachet,Household,3,12.0,9.0,Utang,0.0,0.0,pc,1
+2026-11-06,17:50,T00106,Lucky Me Pancit Canton,Noodles,3,15.0,12.0,Utang,0.0,0.0,pc,1
+2026-11-06,13:53,T00100,KOPIKO 3-IN-1,Beverages,1,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-06,08:09,T00095,Datu Puti Soy Sauce,Staples,1,18.0,14.0,Cash,0.0,0.0,pc,1
+2026-11-06,06:13,T00098,Lucky Me Pancit Canton,Noodles,2,15.0,12.0,Cash,0.0,0.0,pc,1
+2026-11-06,13:43,T00099,Piattos,Snacks,1,17.0,14.0,Cash,0.0,0.0,pc,1
+2026-11-06,11:07,T00088,pandesal,Bakery,1,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-06,11:07,T00088,Nescafe 3-in-1,Beverages,1,9.0,7.0,Cash,0.0,0.0,pc,1
+2026-11-06,11:58,T00089,Ice Candy,Snacks,2,5.0,3.0,Utang,0.0,0.0,pc,1
+2026-11-06,18:52,T00091,Tide Sachet,Household,3,12.0,9.0,GCash,0.0,0.0,pc,1
+2026-11-06,18:12,T00092,Tide Sachet,Household,3,12.0,9.0,Cash,0.0,0.0,pc,1
+2026-11-06,18:12,T00092,Lucky Me Beef Noodles,Noodles,1,13.0,10.0,Cash,0.0,0.0,pc,1
+2026-11-06,17:20,T00093,Ice Candy,Snacks,1,5.0,3.0,GCash,0.0,0.0,pc,1
+2026-11-06,13:32,T00090,Pandesal,Bakery,3,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-06,08:09,T00095,Pandesal,Bakery,2,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-06,08:09,T00095,Kopiko 3-in-1,Beverages,1,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-06,07:35,T00096,Coke Mismo,Beverages,2,20.0,16.0,Cash,0.0,0.0,pc,1
+2026-11-06,07:35,T00096,Egg,Staples,3,9.0,7.0,Cash,1.0,0.0,pc,1
+2026-11-06,07:35,T00096,Pandesal,Bakery,3,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-06,18:09,T00097,Ice Candy,Snacks,1,5.0,3.0,Cash,0.0,0.0,pc,1
+2026-11-06,12:14,T00094,Pandesal,Bakery,2,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-06,06:13,T00098,Pandesal,Bakery,1,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-07,18:12,T00131,Shampoo Sachet,Household,3,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-07,18:12,T00131,Pandesal ,Bakery,3,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-07,07:06,T00130,Ice Candy,Snacks,2,5.0,3.0,Cash,0.0,0.0,pc,1
+2026-11-07,18:45,T00129,Coke Mismo,Beverages,1,20.0,16.0,Utang,0.0,0.0,pc,1
+2026-11-07,16:36,T00128,Palmolive Soap,Household,2,30.0,24.0,Cash,0.0,0.0,pc,1
+2026-11-07,16:36,T00128,Pandesal ,Bakery,2,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-07,07:02,T00127,Pandesal,Bakery,1,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-07,11:53,T00132,Coke Mismo,Beverages,1,20.0,16.0,Cash,0.0,0.0,pc,1
+2026-11-07,18:45,T00129,Lucky Me Pancit Canton,Noodles,3,15.0,12.0,Utang,0.0,0.0,pc,1
+2026-11-07,11:53,T00132,Ice Candy,Snacks,2,5.0,3.0,Cash,0.0,0.0,pc,1
+2026-11-07,18:50,T00136,Lucky Me Pancit Canton,Noodles,1,15.0,12.0,Utang,0.0,0.0,pc,1
+2026-11-07,19:00,T00133,Coke Mismo,Beverages,3,20.0,16.0,Cash,0.0,0.0,pc,1
+2026-11-07,19:00,T00133,Pandesal,Bakery,1,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-07,19:59,T00134,Nescafe 3-in-1,Beverages,3,9.0,7.0,Cash,0.0,0.0,pc,1
+2026-11-07,09:12,T00135,Pandesal,Bakery,2,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-07,09:12,T00135,Datu Puti Soy Sauce,Staples,1,18.0,14.0,Cash,0.0,0.0,pc,1
+2026-11-07,18:50,T00136,Lucky Me Beef Noodles,Noodles,3,13.0,10.0,Utang,0.0,0.0,pc,1
+2026-11-07,18:50,T00136,pandesal,Bakery,3,3.0,2.0,Utang,0.0,0.0,pc,1
+2026-11-07,08:59,T00137,Ice Candy,Snacks,1,5.0,3.0,GCash,0.0,0.0,pc,1
+2026-11-07,08:59,T00137,Tide Sachet,Household,1,12.0,9.0,GCash,0.0,0.0,pc,1
+2026-11-07,07:02,T00127,Rice (kilo),Staples,1,55.0,50.0,Cash,0.0,0.0,pc,1
+2026-11-07,11:53,T00132,lucky me canton,Noodles,2,15.0,12.0,Cash,0.0,0.0,pc,1
+2026-11-07,12:03,T00126,Bottled Water 500ml,Beverages,2,15.0,11.0,Utang,0.0,0.0,pc,1
+2026-11-07,18:12,T00131,Egg,Staples,2,9.0,7.0,Cash,0.0,0.0,pc,1
+2026-11-07,12:03,T00126,Pandesal,Bakery,1,3.0,2.0,Utang,0.0,0.0,pc,1
+2026-11-07,14:42,T00113,Cooking Oil Pouch,Staples,2,25.0,21.0,GCash,0.0,0.0,pc,1
+2026-11-07,13:20,T00115,Lucky Me Pancit Canton,Noodles,3,15.0,12.0,Cash,0.0,0.0,pc,1
+2026-11-07,13:20,T00115,Egg,Staples,2,9.0,7.0,Cash,0.0,0.0,pc,1
+2026-11-07,07:44,T00116,Egg,Staples,2,9.0,7.0,GCash,0.0,0.0,pc,1
+2026-11-07,07:44,T00116,Pandesal,Bakery,2,3.0,2.0,GCash,0.0,0.0,pc,1
+2026-11-07,08:58,T00117,Shampoo Sachet,Household,1,8.0,6.0,GCash,0.0,0.0,pc,1
+2026-11-07,10:55,T00118,Royal Mismo,Beverages,1,20.0,16.0,Cash,0.0,0.0,pc,1
+2026-11-07,16:38,T00119,Lucky Me Beef Noodles,Noodles,1,13.0,10.0,Utang,0.0,0.0,pc,1
+2026-11-07,13:04,T00120,Tide Sachet,Household,1,12.0,9.0,Cash,0.0,0.0,pc,1
+2026-11-07,06:58,T00121,Shampoo Sachet,Household,2,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-07,13:42,T00114,Royal Mismo,Beverages,3,20.0,16.0,Cash,0.0,0.0,pc,1
+2026-11-07,06:58,T00121,Cellphone Load 50,Load,2,50.0,47.0,Cash,0.0,0.0,pc,1
+2026-11-07,12:03,T00126,Tide Sachet,Household,2,12.0,9.0,Utang,0.0,0.0,pc,1
+2026-11-07,20:51,T00122,Kopiko 3-in-1,Beverages,2,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-07,20:51,T00122,Egg,Staples,3,9.0,7.0,Cash,0.0,0.0,pc,1
+2026-11-07,09:52,T00123,Ice Candy,Snacks,3,5.0,3.0,Cash,0.0,0.0,pc,1
+2026-11-07,09:52,T00123,Lucky Me Pancit Canton,Noodles,1,15.0,12.0,Cash,0.0,0.0,pc,1
+2026-11-07,19:56,T00124,Coke Mismo,Beverages,3,20.0,16.0,GCash,0.0,0.0,pc,1
+2026-11-07,19:56,T00124,Royal Mismo,Beverages,3,20.0,16.0,GCash,1.0,0.0,pc,1
+2026-11-07,13:48,T00125,Nescafe 3-in-1,Beverages,2,9.0,7.0,Utang,0.0,0.0,pc,1
+2026-11-07,13:48,T00125,Cooking Oil Pouch,Staples,1,25.0,21.0,Utang,0.0,0.0,pc,1
+2026-11-07,06:58,T00121,Sky Flakes,Snacks,1,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-08,16:20,T00156,Shampoo Sachet,Household,3,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-08,11:03,T00155,Pandesal,Bakery,2,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-08,11:03,T00155,Ice Candy,Snacks,3,5.0,3.0,Cash,0.0,0.0,pc,1
+2026-11-08,14:22,T00152,Pandesal,Bakery,3,3.0,2.0,GCash,0.0,0.0,pc,1
+2026-11-08,09:42,T00153,Pandesal,Bakery,2,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-08,14:22,T00152,Nescafe 3-in-1,Beverages,3,9.0,7.0,GCash,0.0,0.0,pc,1
+2026-11-08,11:18,T00157,Nescafe 3-in-1,Beverages,1,9.0,7.0,Cash,0.0,0.0,pc,1
+2026-11-08,09:42,T00153,Sugar (kilo),Staples,1,70.0,64.0,Cash,0.0,0.0,pc,1
+2026-11-08,15:45,T00158,Pandesal,Bakery,2,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-08,11:42,T00161,pandesal,Bakery,2,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-08,15:25,T00160,Royal Mismo,Beverages,2,20.0,16.0,Cash,0.0,0.0,pc,1
+2026-11-08,15:25,T00160,Tasty Bread,Bakery,3,65.0,55.0,Cash,0.0,0.0,pc,1
+2026-11-08,15:25,T00160,Lucky Me Pancit Canton,Noodles,1,15.0,12.0,Cash,0.0,0.0,pc,1
+2026-11-08,18:36,T00162,Egg,Staples,2,9.0,7.0,Cash,0.0,0.0,pc,1
+2026-11-08,18:36,T00162,Coke Mismo,Beverages,1,20.0,16.0,Cash,0.0,0.0,pc,1
+2026-11-08,12:05,T00163,Nescafe 3-in-1,Beverages,1,9.0,7.0,Cash,0.0,0.0,pc,1
+2026-11-08,12:05,T00163,Rice (kilo),Staples,1,55.0,50.0,Cash,0.0,0.0,pc,1
+2026-11-08,13:13,T00151,Sugar (kilo),Staples,1,70.0,64.0,Cash,0.0,0.0,pc,1
+2026-11-08,15:23,T00159,Pandesal,Bakery,2,3.0,2.0,Utang,0.0,0.0,pc,1
+2026-11-08,13:13,T00151,Pandesal,Bakery,1,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-08,06:31,T00154,Tide Sachet,Household,2,12.0,9.0,GCash,0.0,0.0,pc,1
+2026-11-08,08:18,T00149,Pandesal ,Bakery,2,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-08,17:46,T00150,Nescafe 3-in-1,Beverages,2,9.0,7.0,Cash,0.0,0.0,pc,1
+2026-11-08,19:57,T00138,Ice Candy,Snacks,3,5.0,3.0,Cash,0.0,0.0,pc,1
+2026-11-08,19:57,T00138,Kopiko 3-in-1,Beverages,3,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-08,10:28,T00139,Piattos,Snacks,3,17.0,14.0,Cash,0.0,0.0,pc,1
+2026-11-08,19:49,T00140,Palmolive Soap,Household,3,30.0,24.0,GCash,0.0,0.0,pc,1
+2026-11-08,20:53,T00142,Tide Sachet,Household,3,12.0,9.0,Utang,0.0,0.0,pc,1
+2026-11-08,20:53,T00142,Pandesal,Bakery,1,3.0,2.0,Utang,0.0,0.0,pc,1
+2026-11-08,18:02,T00143,Shampoo Sachet,Household,1,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-08,15:23,T00144,Tide Sachet,Household,1,12.0,9.0,Cash,0.0,0.0,pc,1
+2026-11-08,11:27,T00141,Pandesal,Bakery,3,3.0,2.0,Utang,0.0,0.0,pc,1
+2026-11-08,14:47,T00145,Ice Candy,Snacks,3,5.0,3.0,Utang,0.0,0.0,pc,1
+2026-11-08,14:47,T00145,Pandesal,Bakery,2,3.0,2.0,Utang,0.0,0.0,pc,1
+2026-11-08,10:23,T00146,Pandesal,Bakery,3,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-08,20:20,T00147,Sky Flakes,Snacks,1,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-08,13:31,T00148,Tide Sachet,Household,2,12.0,9.0,Cash,0.0,0.0,pc,1
+2026-11-08,20:20,T00147,Ice Candy,Snacks,2,5.0,3.0,Cash,0.0,0.0,pc,1
+2026-11-08,13:31,T00148,Pandesal,Bakery,3,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-08,13:31,T00148,Ice Candy,Snacks,2,5.0,3.0,Cash,0.0,0.0,pc,1
+2026-11-08,15:23,T00144,Pandesal,Bakery,3,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-09,10:09,T00172,Pandesal,Bakery,2,3.0,2.0,Cash,0.0,1.0,pc,1
+2026-11-09,07:27,T00173,Pandesal,Bakery,3,3.0,2.0,Utang,0.0,1.0,pc,1
+2026-11-09,17:34,T00174,Lucky Me Pancit Canton,Noodles,1,15.0,12.0,Cash,0.0,1.0,pc,1
+2026-11-09,12:30,T00175,Egg,Staples,1,9.0,7.0,Utang,0.0,1.0,pc,1
+2026-11-09,06:01,T00177,Lucky Me Pancit Canton,Noodles,2,15.0,12.0,GCash,0.0,1.0,pc,1
+2026-11-09,16:54,T00176,Kopiko 3-in-1,Beverages,3,8.0,6.0,Cash,0.0,1.0,pc,1
+2026-11-09,06:01,T00177,Nescafe 3-in-1,Beverages,3,9.0,7.0,GCash,0.0,1.0,pc,1
+2026-11-09,06:55,T00178,Cellphone Load 50,Load,2,50.0,47.0,GCash,0.0,1.0,pc,1
+2026-11-09,10:09,T00172,Royal Mismo,Beverages,2,20.0,16.0,Cash,0.0,1.0,pc,1
+2026-11-09,12:30,T00175,Nescafe 3-in-1,Beverages,2,9.0,7.0,Utang,0.0,1.0,pc,1
+2026-11-09,10:09,T00172,Lucky Me Pancit Cantoon,Noodles,1,15.0,12.0,Cash,0.0,1.0,pc,1
+2026-11-09,17:03,T00169,Rice (kilo),Staples,3,55.0,50.0,Utang,0.0,1.0,pc,1
+2026-11-09,20:16,T00170,Ice Candy,Snacks,1,5.0,3.0,Utang,0.0,1.0,pc,1
+2026-11-09,17:03,T00169,Lucky Me Pancit Canton,Noodles,1,15.0,12.0,Utang,0.0,1.0,pc,1
+2026-11-09,08:49,T00168,Pandesal,Bakery,3,3.0,2.0,Utang,0.0,1.0,pc,1
+2026-11-09,16:36,T00167,Pandesal,Bakery,3,3.0,2.0,Cash,0.0,1.0,pc,1
+2026-11-09,15:22,T00166,Kopiko 3-in-1,Beverages,2,8.0,6.0,GCash,0.0,1.0,pc,1
+2026-11-09,15:22,T00166,Egg,Staples,1,9.0,7.0,GCash,0.0,1.0,pc,1
+2026-11-09,18:30,T00165,Tide Sachet,Household,3,12.0,9.0,Cash,0.0,1.0,pc,1
+2026-11-09,18:30,T00165,pandesal,Bakery,1,3.0,2.0,Cash,0.0,1.0,pc,1
+2026-11-09,18:07,T00164,Pandesal,Bakery,3,3.0,2.0,Cash,0.0,1.0,pc,1
+2026-11-09,14:29,T00171,Ice Candy,Snacks,1,5.0,3.0,Cash,0.0,1.0,pc,1
+2026-11-10,20:38,T00187,Pandesal,Bakery,2,3.0,2.0,Utang,0.0,0.0,pc,1
+2026-11-10,20:38,T00187,Shampoo Sachet,Household,1,8.0,6.0,Utang,0.0,0.0,pc,1
+2026-11-10,08:47,T00188,Kopiko 3-in-1,Beverages,1,8.0,6.0,Utang,0.0,0.0,pc,1
+2026-11-10,08:47,T00188,Pandesal,Bakery,1,3.0,2.0,Utang,0.0,0.0,pc,1
+2026-11-10,07:21,T00193,Pandesal,Bakery,2,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-10,19:10,T00189,Datu Puti Soy Sauce,Staples,1,18.0,14.0,Cash,0.0,0.0,pc,1
+2026-11-10,07:26,T00191,Kopiko 3-in-1,Beverages,1,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-10,19:10,T00189,Kopiko 3-in-1,Beverages,2,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-10,12:33,T00190,Kopiko 3-in-1,Beverages,1,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-10,12:33,T00190,Cellphone Load 50,Load,2,50.0,47.0,Cash,0.0,0.0,pc,1
+2026-11-10,15:44,T00192,Cellphone Load 100,Load,1,100.0,96.0,GCash,0.0,0.0,pc,1
+2026-11-10,18:54,T00186,Tide Sachet,Household,3,12.0,9.0,Cash,0.0,0.0,pc,1
+2026-11-10,19:10,T00189,Pandesal,Bakery,2,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-10,18:54,T00186,Cellphone Load 50,Load,1,50.0,47.0,Cash,0.0,0.0,pc,1
+2026-11-10,08:47,T00188,Piattos,Snacks,3,17.0,14.0,Utang,0.0,0.0,pc,1
+2026-11-10,19:20,T00185,Pandesal,Bakery,3,3.0,2.0,Utang,0.0,0.0,pc,1
+2026-11-10,18:54,T00186,Pandesal,Bakery,1,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-10,15:45,T00179,Tide Sachet,Household,3,12.0,9.0,Utang,0.0,0.0,pc,1
+2026-11-10,15:45,T00179,Kopiko 3-in-1,Beverages,2,8.0,6.0,Utang,0.0,0.0,pc,1
+2026-11-10,16:03,T00180,Pandesal,Bakery,3,3.0,2.0,Utang,0.0,0.0,pc,1
+2026-11-10,16:03,T00180,Kopiko 3-in-1,Beverages,2,8.0,6.0,Utang,0.0,0.0,pc,1
+2026-11-10,07:58,T00181,Egg,Staples,3,9.0,7.0,Utang,0.0,0.0,pc,1
+2026-11-10,16:03,T00180,Egg,Staples,2,9.0,7.0,Utang,0.0,0.0,pc,1
+2026-11-10,08:00,T00182,Datu Puti Soy Sauce,Staples,1,18.0,14.0,GCash,0.0,0.0,pc,1
+2026-11-10,08:00,T00182,Pandesal,Bakery,1,3.0,2.0,GCash,0.0,0.0,pc,1
+2026-11-10,06:14,T00183,Pandesal,Bakery,3,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-10,06:14,T00183,Egg,Staples,1,9.0,7.0,Cash,0.0,0.0,pc,1
+2026-11-10,17:43,T00184,Pandesal ,Bakery,1,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-10,17:43,T00184,Kopiko 3-in-1,Beverages,3,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-10,07:58,T00181,Shampoo Sachet,Household,2,8.0,6.0,Utang,0.0,0.0,pc,1
+2026-11-11,07:16,T00211,Rice (kilo),Staples,2,55.0,50.0,Cash,0.0,0.0,pc,1
+2026-11-11,14:56,T00209,Datu Puti Soy Sauce,Staples,2,18.0,14.0,Utang,0.0,0.0,pc,1
+2026-11-11,15:44,T00210,Coke Mismo,Beverages,2,20.0,16.0,Cash,0.0,0.0,pc,1
+2026-11-11,15:44,T00210,Kopiko 3-in-1,Beverages,1,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-11,07:16,T00211,Pandesal,Bakery,2,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-11,07:16,T00211,Coke Mismo,Beverages,3,20.0,16.0,Cash,0.0,0.0,pc,1
+2026-11-11,09:37,T00212,Tasty Bread,Bakery,3,65.0,55.0,Cash,0.0,0.0,pc,1
+2026-11-11,13:06,T00218,Rice (kilo),Staples,2,55.0,50.0,Cash,0.0,0.0,pc,1
+2026-11-11,17:57,T00213,Pandesal,Bakery,2,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-11,20:04,T00214,Lucky Me Pancit Cantoon,Noodles,1,15.0,12.0,Cash,0.0,0.0,pc,1
+2026-11-11,20:04,T00214,KOPIKO 3-IN-1,Beverages,3,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-11,09:33,T00215,Lucky Me Pancit Canton,Noodles,3,15.0,12.0,Cash,0.0,0.0,pc,1
+2026-11-11,14:10,T00216,Pandesal,Bakery,3,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-11,09:56,T00217,Pandesal,Bakery,3,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-11,15:07,T00208,Cellphone Load 100,Load,2,100.0,96.0,GCash,0.0,0.0,pc,1
+2026-11-11,09:37,T00212,Shampoo Sachet,Household,2,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-11,06:26,T00207,Kopiko 3-in-1,Beverages,3,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-11,14:56,T00209,KOPIKO 3-IN-1,Beverages,1,8.0,6.0,Utang,0.0,0.0,pc,1
+2026-11-11,13:48,T00205,Egg,Staples,3,9.0,7.0,GCash,0.0,0.0,pc,1
+2026-11-11,09:03,T00206,Egg,Staples,2,9.0,7.0,Cash,0.0,0.0,pc,1
+2026-11-11,14:43,T00194,Lucky Me Beef Noodles,Noodles,3,13.0,10.0,GCash,0.0,0.0,pc,1
+2026-11-11,06:01,T00195,Kopiko 3-in-1,Beverages,3,8.0,6.0,GCash,0.0,0.0,pc,1
+2026-11-11,17:55,T00196,Shampoo Sachet,Household,2,8.0,6.0,Utang,0.0,0.0,pc,1
+2026-11-11,20:21,T00197,Cooking Oil Pouch,Staples,1,25.0,21.0,Cash,0.0,0.0,pc,1
+2026-11-11,15:41,T00198,Shampoo Sachet,Household,2,8.0,6.0,Utang,0.0,0.0,pc,1
+2026-11-11,15:41,T00198,Pandesal,Bakery,2,3.0,2.0,Utang,0.0,0.0,pc,1
+2026-11-11,10:48,T00199,Pandesal,Bakery,1,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-11,17:55,T00196,Lucky Me Pancit Canton,Noodles,3,15.0,12.0,Utang,0.0,0.0,pc,1
+2026-11-11,14:47,T00201,Ice Candy,Snacks,2,5.0,3.0,GCash,0.0,0.0,pc,1
+2026-11-11,06:52,T00202,Shampoo Sachet,Household,3,8.0,6.0,Utang,0.0,0.0,pc,1
+2026-11-11,08:15,T00203,Egg,Staples,3,9.0,7.0,Cash,0.0,0.0,pc,1
+2026-11-11,07:41,T00204,Piattos,Snacks,2,17.0,14.0,GCash,0.0,0.0,pc,1
+2026-11-11,13:48,T00205,Bottled Water 500ml,Beverages,1,15.0,11.0,GCash,0.0,0.0,pc,1
+2026-11-11,17:30,T00200,Ice Candy,Snacks,2,5.0,3.0,Cash,0.0,0.0,pc,1
+2026-11-11,13:48,T00205,Pandesal,Bakery,1,3.0,2.0,GCash,0.0,0.0,pc,1
+2026-11-13,12:36,T00260,Pandesal,Bakery,2,3.0,2.0,Utang,0.0,0.0,pc,1
+2026-11-13,13:53,T00259,Egg,Staples,2,9.0,7.0,Utang,0.0,0.0,pc,1
+2026-11-13,13:53,T00259,Nescafe 3-in-1,Beverages,3,9.0,7.0,Utang,0.0,0.0,pc,1
+2026-11-13,13:53,T00259,Kopiko 3-in-1,Beverages,1,8.0,6.0,Utang,0.0,0.0,pc,1
+2026-11-13,11:10,T00258,Lucky Me Pancit Canton,Noodles,1,15.0,12.0,Cash,0.0,0.0,pc,1
+2026-11-13,14:09,T00257,Pandesal,Bakery,3,3.0,2.0,GCash,0.0,0.0,pc,1
+2026-11-13,09:14,T00256,KOPIKO 3-IN-1,Beverages,2,8.0,6.0,Utang,0.0,0.0,pc,1
+2026-11-13,12:36,T00260,KOPIKO 3-IN-1,Beverages,3,8.0,6.0,Utang,0.0,0.0,pc,1
+2026-11-13,11:10,T00258,Ice Candy,Snacks,3,5.0,3.0,Cash,0.0,0.0,pc,1
+2026-11-13,06:59,T00261,Sky Flakes,Snacks,2,8.0,6.0,GCash,0.0,0.0,pc,1
+2026-11-13,10:33,T00264,Egg,Staples,3,9.0,7.0,Cash,0.0,0.0,pc,1
+2026-11-13,06:59,T00261,Royal Mismo,Beverages,2,20.0,16.0,GCash,0.0,0.0,pc,1
+2026-11-13,11:47,T00262,Nescafe 3-in-1,Beverages,2,9.0,7.0,Cash,0.0,0.0,pc,1
+2026-11-13,20:30,T00266,Pandesal,Bakery,3,3.0,2.0,Utang,0.0,0.0,pc,1
+2026-11-13,11:47,T00262,Kopiko 3-in-1,Beverages,1,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-13,11:47,T00262,Ice Candy,Snacks,2,5.0,3.0,Cash,0.0,0.0,pc,1
+2026-11-13,16:50,T00263,Egg,Staples,2,9.0,7.0,GCash,0.0,0.0,pc,1
+2026-11-13,08:19,T00265,kopiko 3in1,Beverages,3,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-13,20:30,T00266,Coke Mismo,Beverages,2,20.0,16.0,Utang,0.0,0.0,pc,1
+2026-11-13,06:37,T00255,Lucky Me Pancit Canton,Noodles,2,15.0,12.0,Cash,0.0,0.0,pc,1
+2026-11-13,06:59,T00261,Pandesal,Bakery,3,3.0,2.0,GCash,0.0,0.0,pc,1
+2026-11-13,20:35,T00254,Rice (kilo),Staples,1,55.0,50.0,Cash,0.0,0.0,pc,1
+2026-11-13,09:11,T00243,Nescafe 3-in-1,Beverages,2,9.0,7.0,Cash,0.0,0.0,pc,1
+2026-11-13,15:37,T00252,Royal Mismo,Beverages,3,20.0,16.0,Cash,0.0,0.0,pc,1
+2026-11-13,20:14,T00253,Nescafe 3-in-1,Beverages,3,9.0,7.0,Cash,1.0,0.0,pc,1
+2026-11-13,06:07,T00239,Coke Mismo,Beverages,1,20.0,16.0,Cash,0.0,0.0,pc,1
+2026-11-13,18:56,T00240,Lucky Me Beef Noodles,Noodles,1,13.0,10.0,Utang,0.0,0.0,pc,1
+2026-11-13,08:44,T00241,Ice Candy,Snacks,1,5.0,3.0,Cash,0.0,0.0,pc,1
+2026-11-13,18:34,T00242,Ice Candy,Snacks,3,5.0,3.0,Cash,0.0,0.0,pc,1
+2026-11-13,18:34,T00242,KOPIKO 3-IN-1,Beverages,3,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-13,14:53,T00244,Pandesal,Bakery,1,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-13,14:53,T00244,Shampoo Sachet,Household,2,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-13,14:53,T00244,Nescafe 3-in-1,Beverages,3,9.0,7.0,Cash,0.0,0.0,pc,1
+2026-11-13,12:09,T00245,Ice Candy,Snacks,3,5.0,3.0,Cash,0.0,0.0,pc,1
+2026-11-13,06:07,T00239,Pandesal,Bakery,3,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-13,14:41,T00247,Egg,Staples,1,9.0,7.0,GCash,0.0,0.0,pc,1
+2026-11-13,20:41,T00246,Shampoo Sachet,Household,1,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-13,15:37,T00252,Kopiko 3-in-1,Beverages,2,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-13,20:35,T00251,Lucky Me Pancit Canton,Noodles,2,15.0,12.0,GCash,0.0,0.0,pc,1
+2026-11-13,12:46,T00250,Kopiko 3-in-1,Beverages,1,8.0,6.0,GCash,0.0,0.0,pc,1
+2026-11-13,15:37,T00252,Ice Candy,Snacks,2,5.0,3.0,Cash,0.0,0.0,pc,1
+2026-11-13,18:08,T00249,Kopiko 3-in-1,Beverages,2,8.0,6.0,GCash,0.0,0.0,pc,1
+2026-11-13,06:20,T00248,pandesal,Bakery,3,3.0,2.0,Utang,0.0,0.0,pc,1
+2026-11-13,14:41,T00247,Kopiko 3-in-1,Beverages,2,8.0,6.0,GCash,0.0,0.0,pc,1
+2026-11-13,18:08,T00249,Ice Candy,Snacks,3,5.0,3.0,GCash,0.0,0.0,pc,1
+2026-11-14,18:41,T00285,Egg,Staples,2,9.0,7.0,Cash,0.0,1.0,pc,1
+2026-11-14,20:02,T00282,Pandesal,Bakery,3,3.0,2.0,GCash,0.0,1.0,pc,1
+2026-11-14,20:02,T00282,Ice Candy,Snacks,2,5.0,3.0,GCash,0.0,1.0,pc,1
+2026-11-14,07:19,T00283,Tasty Bread,Bakery,3,65.0,55.0,Cash,0.0,1.0,pc,1
+2026-11-14,07:19,T00283,Egg,Staples,3,9.0,7.0,Cash,0.0,1.0,pc,1
+2026-11-14,13:03,T00284,Kopiko 3-in-1,Beverages,2,8.0,6.0,Cash,0.0,1.0,pc,1
+2026-11-14,13:03,T00284,Coke Mismo,Beverages,2,20.0,16.0,Cash,0.0,1.0,pc,1
+2026-11-14,11:14,T00286,Kopiko 3-in-1,Beverages,1,8.0,6.0,GCash,0.0,1.0,pc,1
+2026-11-14,13:44,T00288,Kopiko 3-in-1,Beverages,3,8.0,6.0,Cash,0.0,1.0,pc,1
+2026-11-14,08:42,T00287,Egg,Staples,2,9.0,7.0,Cash,0.0,1.0,pc,1
+2026-11-14,08:42,T00287,Shampoo Sachet,Household,3,8.0,6.0,Cash,0.0,1.0,pc,1
+2026-11-14,13:44,T00288,Egg,Staples,1,9.0,7.0,Cash,0.0,1.0,pc,1
+2026-11-14,11:47,T00289,Nescafe 3-in-1,Beverages,2,9.0,7.0,GCash,0.0,1.0,pc,1
+2026-11-14,15:45,T00290,Ice Candy,Snacks,2,5.0,3.0,Utang,0.0,1.0,pc,1
+2026-11-14,17:48,T00291,Egg,Staples,3,9.0,7.0,GCash,0.0,1.0,pc,1
+2026-11-14,17:48,T00291,Lucky Me Pancit Canton,Noodles,1,15.0,12.0,GCash,0.0,1.0,pc,1
+2026-11-14,20:02,T00282,Kopiko 3-in-1,Beverages,1,8.0,6.0,GCash,0.0,1.0,pc,1
+2026-11-14,11:14,T00286,Pandesal,Bakery,1,3.0,2.0,GCash,0.0,1.0,pc,1
+2026-11-14,07:02,T00281,Pandesal,Bakery,2,3.0,2.0,Cash,0.0,1.0,pc,1
+2026-11-14,08:42,T00287,Pandesal,Bakery,2,3.0,2.0,Cash,0.0,1.0,pc,1
+2026-11-14,14:50,T00279,Rice (kilo),Staples,3,55.0,50.0,Cash,0.0,1.0,pc,1
+2026-11-14,11:11,T00267,Lucky Me Beef Noodles,Noodles,1,13.0,10.0,Cash,0.0,1.0,pc,1
+2026-11-14,11:11,T00267,pandesal,Bakery,2,3.0,2.0,Cash,0.0,1.0,pc,1
+2026-11-14,15:44,T00269,Sky Flakes,Snacks,2,8.0,6.0,Cash,1.0,1.0,pc,1
+2026-11-14,20:08,T00270,Nescafe 3-in-1,Beverages,2,9.0,7.0,Utang,0.0,1.0,pc,1
+2026-11-14,20:08,T00270,Royal Mismo,Beverages,2,20.0,16.0,Utang,0.0,1.0,pc,1
+2026-11-14,08:21,T00280,Pandesal,Bakery,3,3.0,2.0,GCash,0.0,1.0,pc,1
+2026-11-14,12:59,T00271,Cooking Oil Pouch,Staples,1,25.0,21.0,Cash,0.0,1.0,pc,1
+2026-11-14,15:08,T00272,Nescafe 3-in-1,Beverages,1,9.0,7.0,Cash,0.0,1.0,pc,1
+2026-11-14,15:08,T00272,Egg,Staples,3,9.0,7.0,Cash,0.0,1.0,pc,1
+2026-11-14,13:03,T00268,Lucky Me Pancit Canton,Noodles,3,15.0,12.0,Cash,0.0,1.0,pc,1
+2026-11-14,16:11,T00274,Pandesal,Bakery,1,3.0,2.0,Cash,0.0,1.0,pc,1
+2026-11-14,10:14,T00275,Sugar (kilo),Staples,2,70.0,64.0,Cash,0.0,1.0,pc,1
+2026-11-14,14:28,T00276,kopiko 3in1,Beverages,3,8.0,6.0,GCash,0.0,1.0,pc,1
+2026-11-14,14:28,T00276,Pandesal ,Bakery,3,3.0,2.0,GCash,0.0,1.0,pc,1
+2026-11-14,14:28,T00276,Egg,Staples,1,9.0,7.0,GCash,0.0,1.0,pc,1
+2026-11-14,16:46,T00277,Sugar (kilo),Staples,3,70.0,64.0,Cash,0.0,1.0,pc,1
+2026-11-14,07:46,T00278,Pandesal,Bakery,1,3.0,2.0,Cash,0.0,1.0,pc,1
+2026-11-14,07:46,T00278,Kopiko 3-in-1,Beverages,1,8.0,6.0,Cash,0.0,1.0,pc,1
+2026-11-14,18:48,T00273,Pandesal,Bakery,1,3.0,2.0,Cash,0.0,1.0,pc,1
+2026-11-15,12:51,T00303,Sky Flakes,Snacks,1,8.0,6.0,GCash,0.0,0.0,pc,1
+2026-11-15,09:31,T00304,Lucky Me Pancit Canton,Noodles,2,15.0,12.0,Cash,0.0,0.0,pc,1
+2026-11-15,12:33,T00305,Nescafe 3-in-1,Beverages,2,9.0,7.0,Cash,0.0,0.0,pc,1
+2026-11-15,12:33,T00305,Ice Candy,Snacks,2,5.0,3.0,Cash,0.0,0.0,pc,1
+2026-11-15,20:58,T00306,Nescafe 3-in-1,Beverages,2,9.0,7.0,Cash,0.0,0.0,pc,1
+2026-11-15,17:07,T00307,Shampoo Sachet,Household,3,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-15,15:05,T00310,Pandesal,Bakery,1,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-15,14:59,T00308,Ice Candy,Snacks,3,5.0,3.0,Utang,0.0,0.0,pc,1
+2026-11-15,14:59,T00308,Tasty Bread,Bakery,2,65.0,55.0,Utang,0.0,0.0,pc,1
+2026-11-15,11:56,T00309,Pandesal,Bakery,3,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-15,16:11,T00311,Pandesal,Bakery,1,3.0,2.0,Utang,0.0,0.0,pc,1
+2026-11-15,13:40,T00312,Kopiko 3-in-1,Beverages,1,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-15,15:42,T00302,Pandesal,Bakery,1,3.0,2.0,Utang,0.0,0.0,pc,1
+2026-11-15,14:59,T00308,Lucky Me Pancit Cantoon,Noodles,1,15.0,12.0,Utang,0.0,0.0,pc,1
+2026-11-15,15:42,T00302,Tasty Bread,Bakery,1,65.0,55.0,Utang,0.0,0.0,pc,1
+2026-11-15,11:15,T00299,Rice (kilo),Staples,1,55.0,50.0,Cash,0.0,0.0,pc,1
+2026-11-15,10:15,T00300,Egg,Staples,1,9.0,7.0,Cash,0.0,0.0,pc,1
+2026-11-15,17:05,T00301,Egg,Staples,2,9.0,7.0,Cash,0.0,0.0,pc,1
+2026-11-15,11:02,T00292,Royal Mismo,Beverages,1,20.0,16.0,Utang,0.0,0.0,pc,1
+2026-11-15,11:02,T00292,Coke Mismo,Beverages,2,20.0,16.0,Utang,0.0,0.0,pc,1
+2026-11-15,07:14,T00293,Egg,Staples,2,9.0,7.0,Cash,0.0,0.0,pc,1
+2026-11-15,07:14,T00293,Rice (kilo),Staples,3,55.0,50.0,Cash,0.0,0.0,pc,1
+2026-11-15,10:40,T00294,Pandesal,Bakery,3,3.0,2.0,GCash,0.0,0.0,pc,1
+2026-11-15,07:14,T00293,Tide Sachet,Household,1,12.0,9.0,Cash,0.0,0.0,pc,1
+2026-11-15,20:52,T00296,Egg,Staples,3,9.0,7.0,Cash,0.0,0.0,pc,1
+2026-11-15,13:09,T00297,KOPIKO 3-IN-1,Beverages,3,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-15,13:09,T00297,Shampoo Sachet,Household,3,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-15,10:52,T00298,Kopiko 3-in-1,Beverages,3,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-15,10:52,T00298,Lucky Me Pancit Canton,Noodles,3,15.0,12.0,Cash,0.0,0.0,pc,1
+2026-11-15,13:44,T00295,Ice Candy,Snacks,3,5.0,3.0,Cash,0.0,0.0,pc,1
+2026-11-16,13:48,T00328,Sky Flakes,Snacks,3,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-16,08:50,T00326,Pandesal,Bakery,2,3.0,2.0,Utang,0.0,0.0,pc,1
+2026-11-16,08:50,T00326,Cooking Oil Pouch,Staples,1,25.0,21.0,Utang,0.0,0.0,pc,1
+2026-11-16,06:20,T00327,Egg,Staples,3,9.0,7.0,Cash,0.0,0.0,pc,1
+2026-11-16,06:20,T00327,Pandesal,Bakery,1,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-16,13:48,T00328,Pandesal,Bakery,3,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-16,10:49,T00329,Pandesal,Bakery,3,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-16,18:24,T00332,Egg,Staples,3,9.0,7.0,Cash,0.0,0.0,pc,1
+2026-11-16,06:48,T00330,Sugar (kilo),Staples,3,70.0,64.0,Cash,0.0,0.0,pc,1
+2026-11-16,18:07,T00331,kopiko 3in1,Beverages,3,8.0,6.0,Utang,0.0,0.0,pc,1
+2026-11-16,18:07,T00331,Pandesal,Bakery,3,3.0,2.0,Utang,0.0,0.0,pc,1
+2026-11-16,18:24,T00332,Pandesal,Bakery,3,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-16,18:24,T00332,Cellphone Load 100,Load,3,100.0,96.0,Cash,0.0,0.0,pc,1
+2026-11-16,08:50,T00326,Tide Sachet,Household,1,12.0,9.0,Utang,0.0,0.0,pc,1
+2026-11-16,06:48,T00330,Coke Mismo,Beverages,3,20.0,16.0,Cash,0.0,0.0,pc,1
+2026-11-16,08:22,T00325,Egg,Staples,1,9.0,7.0,Cash,0.0,0.0,pc,1
+2026-11-16,06:48,T00330,Nescafe 3-in-1,Beverages,3,9.0,7.0,Cash,0.0,0.0,pc,1
+2026-11-16,08:06,T00323,Lucky Me Pancit Canton,Noodles,3,15.0,12.0,GCash,0.0,0.0,pc,1
+2026-11-16,07:01,T00324,Egg,Staples,1,9.0,7.0,Cash,0.0,0.0,pc,1
+2026-11-16,09:10,T00313,Pandesal,Bakery,2,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-16,09:10,T00313,Nescafe 3-in-1,Beverages,1,9.0,7.0,Cash,0.0,0.0,pc,1
+2026-11-16,19:58,T00314,Ice Candy,Snacks,2,5.0,3.0,Utang,0.0,0.0,pc,1
+2026-11-16,09:58,T00315,Pandesal,Bakery,3,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-16,16:57,T00316,Pandesal,Bakery,2,3.0,2.0,Cash,1.0,0.0,pc,1
+2026-11-16,07:45,T00317,Lucky Me Pancit Canton,Noodles,1,15.0,12.0,Cash,0.0,0.0,pc,1
+2026-11-16,07:45,T00317,Ice Candy,Snacks,1,5.0,3.0,Cash,0.0,0.0,pc,1
+2026-11-16,17:19,T00318,Ice Candy,Snacks,1,5.0,3.0,Cash,0.0,0.0,pc,1
+2026-11-16,08:58,T00319,Ice Candy,Snacks,1,5.0,3.0,GCash,0.0,0.0,pc,1
+2026-11-16,08:58,T00319,Egg,Staples,3,9.0,7.0,GCash,0.0,0.0,pc,1
+2026-11-16,13:29,T00320,Royal Mismo,Beverages,2,20.0,16.0,Utang,0.0,0.0,pc,1
+2026-11-16,07:55,T00321,Pandesal,Bakery,2,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-16,07:55,T00321,Kopiko 3-in-1,Beverages,2,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-16,12:02,T00322,Egg,Staples,2,9.0,7.0,Cash,0.0,0.0,pc,1
+2026-11-16,07:45,T00317,Shampoo Sachet,Household,1,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-17,14:30,T00344,Ice Candy,Snacks,1,5.0,3.0,Cash,1.0,1.0,pc,1
+2026-11-17,12:07,T00348,Shampoo Sachet,Household,3,8.0,6.0,Cash,0.0,1.0,pc,1
+2026-11-17,17:02,T00345,Pandesal ,Bakery,3,3.0,2.0,Utang,0.0,1.0,pc,1
+2026-11-17,11:45,T00346,Cellphone Load 100,Load,2,100.0,96.0,Cash,0.0,1.0,pc,1
+2026-11-17,13:26,T00347,Egg,Staples,2,9.0,7.0,Cash,0.0,1.0,pc,1
+2026-11-17,12:07,T00348,Ice Candy,Snacks,1,5.0,3.0,Cash,0.0,1.0,pc,1
+2026-11-17,11:42,T00349,Royal Mismo,Beverages,3,20.0,16.0,Cash,0.0,1.0,pc,1
+2026-11-17,12:09,T00354,Lucky Me Pancit Canton,Noodles,3,15.0,12.0,Cash,0.0,1.0,pc,1
+2026-11-17,06:05,T00350,Lucky Me Pancit Canton,Noodles,1,15.0,12.0,Cash,0.0,1.0,pc,1
+2026-11-17,06:05,T00350,Nescafe 3-in-1,Beverages,1,9.0,7.0,Cash,0.0,1.0,pc,1
+2026-11-17,14:15,T00351,Pandesal,Bakery,1,3.0,2.0,Cash,0.0,1.0,pc,1
+2026-11-17,13:12,T00352,Piattos,Snacks,3,17.0,14.0,GCash,0.0,1.0,pc,1
+2026-11-17,13:12,T00352,Egg,Staples,2,9.0,7.0,GCash,0.0,1.0,pc,1
+2026-11-17,13:19,T00353,Egg,Staples,3,9.0,7.0,Utang,0.0,1.0,pc,1
+2026-11-17,14:30,T00344,Kopiko 3-in-1,Beverages,1,8.0,6.0,Cash,0.0,1.0,pc,1
+2026-11-17,14:09,T00355,Tide Sachet,Household,2,12.0,9.0,Cash,0.0,1.0,pc,1
+2026-11-17,11:42,T00349,Nescafe 3-in-1,Beverages,1,9.0,7.0,Cash,0.0,1.0,pc,1
+2026-11-17,16:19,T00343,Kopiko 3-in-1,Beverages,1,8.0,6.0,Utang,0.0,1.0,pc,1
+2026-11-17,12:07,T00348,Egg,Staples,2,9.0,7.0,Cash,0.0,1.0,pc,1
+2026-11-17,16:19,T00343,Nescafe 3-in-1,Beverages,3,9.0,7.0,Utang,0.0,1.0,pc,1
+2026-11-17,16:19,T00343,Ice Candy,Snacks,1,5.0,3.0,Utang,0.0,1.0,pc,1
+2026-11-17,17:02,T00333,Ice Candy,Snacks,3,5.0,3.0,GCash,0.0,1.0,pc,1
+2026-11-17,11:09,T00334,Lucky Me Beef Noodles,Noodles,1,13.0,10.0,Cash,0.0,1.0,pc,1
+2026-11-17,09:02,T00335,Pandesal,Bakery,3,3.0,2.0,Cash,0.0,1.0,pc,1
+2026-11-17,06:48,T00336,Sky Flakes,Snacks,3,8.0,6.0,Cash,0.0,1.0,pc,1
+2026-11-17,07:05,T00337,Coke Mismo,Beverages,2,20.0,16.0,Cash,0.0,1.0,pc,1
+2026-11-17,07:05,T00337,Tide Sachet,Household,1,12.0,9.0,Cash,0.0,1.0,pc,1
+2026-11-17,18:42,T00338,Shampoo Sachet,Household,3,8.0,6.0,GCash,0.0,1.0,pc,1
+2026-11-17,11:09,T00334,Cellphone Load 100,Load,1,100.0,96.0,Cash,0.0,1.0,pc,1
+2026-11-17,10:51,T00339,Sugar (kilo),Staples,3,70.0,64.0,GCash,0.0,1.0,pc,1
+2026-11-17,14:25,T00340,Pandesal,Bakery,2,3.0,2.0,Utang,0.0,1.0,pc,1
+2026-11-17,14:25,T00340,Rice (kilo),Staples,3,55.0,50.0,Utang,0.0,1.0,pc,1
+2026-11-17,14:25,T00340,Datu Puti Soy Sauce,Staples,3,18.0,14.0,Utang,0.0,1.0,pc,1
+2026-11-17,14:32,T00341,Sky Flakes,Snacks,1,8.0,6.0,Utang,0.0,1.0,pc,1
+2026-11-17,14:32,T00341,Nescafe 3-in-1,Beverages,3,9.0,7.0,Utang,0.0,1.0,pc,1
+2026-11-17,07:10,T00342,Pandesal,Bakery,1,3.0,2.0,Cash,0.0,1.0,pc,1
+2026-11-17,18:42,T00338,Ice Candy,Snacks,1,5.0,3.0,GCash,0.0,1.0,pc,1
+2026-11-17,07:10,T00342,Egg,Staples,2,9.0,7.0,Cash,0.0,1.0,pc,1
+2026-11-18,08:19,T00371,Lucky Me Pancit Canton,Noodles,1,15.0,12.0,Utang,0.0,0.0,pc,1
+2026-11-18,16:24,T00372,Shampoo Sachet,Household,3,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-18,16:24,T00372,Nescafe 3-in-1,Beverages,1,9.0,7.0,Cash,0.0,0.0,pc,1
+2026-11-18,10:06,T00373,KOPIKO 3-IN-1,Beverages,3,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-18,10:06,T00373,Pandesal,Bakery,3,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-18,10:06,T00373,Lucky Me Pancit Canton,Noodles,3,15.0,12.0,Cash,0.0,0.0,pc,1
+2026-11-18,06:20,T00375,Lucky Me Beef Noodles,Noodles,2,13.0,10.0,GCash,0.0,0.0,pc,1
+2026-11-18,12:25,T00374,Pandesal,Bakery,3,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-18,12:25,T00374,kopiko 3in1,Beverages,2,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-18,06:20,T00375,Lucky Me Pancit Canton,Noodles,1,15.0,12.0,GCash,0.0,0.0,pc,1
+2026-11-18,19:46,T00376,Egg,Staples,1,9.0,7.0,Utang,0.0,0.0,pc,1
+2026-11-18,11:34,T00377,Coke Mismo,Beverages,1,20.0,16.0,Cash,0.0,0.0,pc,1
+2026-11-18,10:52,T00370,Egg,Staples,2,9.0,7.0,Utang,0.0,0.0,pc,1
+2026-11-18,12:25,T00374,Cooking Oil Pouch,Staples,2,25.0,21.0,Cash,0.0,0.0,pc,1
+2026-11-18,07:36,T00369,Kopiko 3-in-1,Beverages,3,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-18,10:32,T00362,Egg,Staples,3,9.0,7.0,Cash,0.0,0.0,pc,1
+2026-11-18,19:09,T00368,Shampoo Sachet,Household,2,8.0,6.0,Utang,0.0,0.0,pc,1
+2026-11-18,17:54,T00378,Pandesal,Bakery,1,3.0,2.0,Utang,0.0,0.0,pc,1
+2026-11-18,08:36,T00356,lucky me canton,Noodles,2,15.0,12.0,GCash,1.0,0.0,pc,1
+2026-11-18,14:43,T00357,Cellphone Load 50,Load,2,50.0,47.0,GCash,0.0,0.0,pc,1
+2026-11-18,12:48,T00358,Shampoo Sachet,Household,2,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-18,10:00,T00359,Coke Mismo,Beverages,3,20.0,16.0,Cash,0.0,0.0,pc,1
+2026-11-18,17:19,T00360,Ice Candy,Snacks,1,5.0,3.0,Cash,0.0,0.0,pc,1
+2026-11-18,19:09,T00368,Coke Mismo,Beverages,3,20.0,16.0,Utang,0.0,0.0,pc,1
+2026-11-18,13:13,T00361,Piattos,Snacks,3,17.0,14.0,GCash,0.0,0.0,pc,1
+2026-11-18,10:32,T00362,pandesal,Bakery,3,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-18,06:50,T00363,Lucky Me Pancit Canton,Noodles,1,15.0,12.0,Cash,0.0,0.0,pc,1
+2026-11-18,06:47,T00364,Ice Candy,Snacks,3,5.0,3.0,GCash,0.0,0.0,pc,1
+2026-11-18,11:35,T00365,Pandesal,Bakery,3,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-18,18:22,T00366,Pandesal,Bakery,2,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-18,06:41,T00367,Ice Candy,Snacks,2,5.0,3.0,Utang,0.0,0.0,pc,1
+2026-11-18,10:32,T00362,Ice Candy,Snacks,3,5.0,3.0,Cash,0.0,0.0,pc,1
+2026-11-18,17:54,T00378,Tide Sachet,Household,1,12.0,9.0,Utang,0.0,0.0,pc,1
+2026-11-19,,,CLOSED,,0,,,,,,,0
+2026-11-20,08:03,T00399,Pandesal,Bakery,2,3.0,2.0,Utang,0.0,1.0,pc,1
+2026-11-20,15:09,T00409,Shampoo Sachet,Household,3,8.0,6.0,Cash,0.0,1.0,pc,1
+2026-11-20,15:09,T00409,Ice Candy,Snacks,1,5.0,3.0,Cash,0.0,1.0,pc,1
+2026-11-20,15:09,T00409,Datu Puti Soy Sauce,Staples,1,18.0,14.0,Cash,0.0,1.0,pc,1
+2026-11-20,13:45,T00410,Rice (kilo),Staples,2,55.0,50.0,Cash,0.0,1.0,pc,1
+2026-11-20,14:00,T00411,Pandesal,Bakery,3,3.0,2.0,Utang,1.0,1.0,pc,1
+2026-11-20,15:00,T00412,Pandesal,Bakery,1,3.0,2.0,Cash,0.0,1.0,pc,1
+2026-11-20,15:00,T00412,Egg,Staples,3,9.0,7.0,Cash,0.0,1.0,pc,1
+2026-11-20,19:09,T00413,Coke Mismo,Beverages,2,20.0,16.0,Utang,0.0,1.0,pc,1
+2026-11-20,19:09,T00413,Rice (kilo),Staples,3,55.0,50.0,Utang,0.0,1.0,pc,1
+2026-11-20,20:34,T00414,Nescafe 3-in-1,Beverages,1,9.0,7.0,Utang,0.0,1.0,pc,1
+2026-11-20,08:59,T00415,Egg,Staples,1,9.0,7.0,Cash,0.0,1.0,pc,1
+2026-11-20,08:59,T00415,Bottled Water 500ml,Beverages,2,15.0,11.0,Cash,0.0,1.0,pc,1
+2026-11-20,17:49,T00416,Datu Puti Soy Sauce,Staples,3,18.0,14.0,Utang,0.0,1.0,pc,1
+2026-11-20,17:49,T00416,Ice Candy,Snacks,3,5.0,3.0,Utang,0.0,1.0,pc,1
+2026-11-20,08:49,T00398,Pandesal,Bakery,3,3.0,2.0,Cash,0.0,1.0,pc,1
+2026-11-20,16:09,T00408,Shampoo Sachet,Household,1,8.0,6.0,Cash,0.0,1.0,pc,1
+2026-11-20,13:12,T00407,Pandesal,Bakery,1,3.0,2.0,Utang,0.0,1.0,pc,1
+2026-11-20,17:49,T00416,lucky me canton,Noodles,3,15.0,12.0,Utang,0.0,1.0,pc,1
+2026-11-20,13:12,T00407,Rice (kilo),Staples,2,55.0,50.0,Utang,0.0,1.0,pc,1
+2026-11-20,13:12,T00407,Egg,Staples,3,9.0,7.0,Utang,0.0,1.0,pc,1
+2026-11-20,08:03,T00399,Tide Sachet,Household,1,12.0,9.0,Utang,0.0,1.0,pc,1
+2026-11-20,17:47,T00401,Pandesal,Bakery,2,3.0,2.0,Cash,0.0,1.0,pc,1
+2026-11-20,17:47,T00401,Egg,Staples,2,9.0,7.0,Cash,0.0,1.0,pc,1
+2026-11-20,17:47,T00401,Tide Sachet,Household,1,12.0,9.0,Cash,0.0,1.0,pc,1
+2026-11-20,20:45,T00402,Egg,Staples,1,9.0,7.0,Utang,0.0,1.0,pc,1
+2026-11-20,20:45,T00402,Ice Candy,Snacks,2,5.0,3.0,Utang,0.0,1.0,pc,1
+2026-11-20,07:28,T00400,Pandesal,Bakery,3,3.0,2.0,Cash,0.0,1.0,pc,1
+2026-11-20,15:18,T00403,Sugar (kilo),Staples,1,70.0,64.0,GCash,0.0,1.0,pc,1
+2026-11-20,10:02,T00404,Tasty Bread,Bakery,1,65.0,55.0,GCash,0.0,1.0,pc,1
+2026-11-20,10:02,T00404,Pandesal,Bakery,1,3.0,2.0,GCash,0.0,1.0,pc,1
+2026-11-20,10:02,T00404,Ice Candy,Snacks,2,5.0,3.0,GCash,0.0,1.0,pc,1
+2026-11-20,06:47,T00405,Palmolive Soap,Household,1,30.0,24.0,Cash,0.0,1.0,pc,1
+2026-11-20,06:47,T00405,Lucky Me Pancit Canton,Noodles,2,15.0,12.0,Cash,0.0,1.0,pc,1
+2026-11-20,20:45,T00402,Nescafe 3-in-1,Beverages,3,9.0,7.0,Utang,0.0,1.0,pc,1
+2026-11-20,07:57,T00406,pandesal,Bakery,1,3.0,2.0,Cash,0.0,1.0,pc,1
+2026-11-21,18:41,T00446,Pandesal,Bakery,2,3.0,2.0,Cash,0.0,1.0,pc,1
+2026-11-21,18:41,T00446,Egg,Staples,3,9.0,7.0,Cash,0.0,1.0,pc,1
+2026-11-21,20:17,T00445,Egg,Staples,3,9.0,7.0,Cash,0.0,1.0,pc,1
+2026-11-21,20:01,T00444,Egg,Staples,2,9.0,7.0,Cash,0.0,1.0,pc,1
+2026-11-21,16:53,T00443,Royal Mismo,Beverages,1,20.0,16.0,GCash,0.0,1.0,pc,1
+2026-11-21,12:08,T00442,Lucky Me Pancit Canton,Noodles,1,15.0,12.0,Cash,0.0,1.0,pc,1
+2026-11-21,16:49,T00440,Kopiko 3-in-1,Beverages,1,8.0,6.0,Cash,0.0,1.0,pc,1
+2026-11-21,20:19,T00441,Cellphone Load 50,Load,2,50.0,47.0,Cash,0.0,1.0,pc,1
+2026-11-21,18:56,T00439,Sugar (kilo),Staples,2,70.0,64.0,GCash,0.0,1.0,pc,1
+2026-11-21,18:56,T00439,Lucky Me Pancit Canton,Noodles,3,15.0,12.0,GCash,0.0,1.0,pc,1
+2026-11-21,07:32,T00438,Shampoo Sachet,Household,1,8.0,6.0,GCash,0.0,1.0,pc,1
+2026-11-21,09:58,T00447,Coke Mismo,Beverages,3,20.0,16.0,Utang,0.0,1.0,pc,1
+2026-11-21,18:04,T00437,Pandesal,Bakery,2,3.0,2.0,Utang,0.0,1.0,pc,1
+2026-11-21,12:08,T00442,Cellphone Load 100,Load,3,100.0,96.0,Cash,0.0,1.0,pc,1
+2026-11-21,09:58,T00447,Egg,Staples,3,9.0,7.0,Utang,0.0,1.0,pc,1
+2026-11-21,18:38,T00452,lucky me canton,Noodles,1,15.0,12.0,Cash,0.0,1.0,pc,1
+2026-11-21,06:37,T00448,Pandesal,Bakery,2,3.0,2.0,Utang,0.0,1.0,pc,1
+2026-11-21,20:52,T00449,Egg,Staples,2,9.0,7.0,Cash,0.0,1.0,pc,1
+2026-11-21,07:49,T00450,Tide Sachet,Household,2,12.0,9.0,GCash,0.0,1.0,pc,1
+2026-11-21,07:49,T00450,lucky me canton,Noodles,3,15.0,12.0,GCash,0.0,1.0,pc,1
+2026-11-21,07:49,T00450,Royal Mismo,Beverages,2,20.0,16.0,GCash,0.0,1.0,pc,1
+2026-11-21,17:49,T00451,Ice Candy,Snacks,3,5.0,3.0,GCash,0.0,1.0,pc,1
+2026-11-21,18:38,T00452,Pandesal ,Bakery,3,3.0,2.0,Cash,0.0,1.0,pc,1
+2026-11-21,17:07,T00453,Pandesal,Bakery,1,3.0,2.0,Cash,0.0,1.0,pc,1
+2026-11-21,06:47,T00454,Sky Flakes,Snacks,2,8.0,6.0,Utang,0.0,1.0,pc,1
+2026-11-21,06:47,T00454,Shampoo Sachet,Household,3,8.0,6.0,Utang,0.0,1.0,pc,1
+2026-11-21,09:55,T00455,Pandesal,Bakery,3,3.0,2.0,Utang,0.0,1.0,pc,1
+2026-11-21,06:42,T00456,Shampoo Sachet,Household,1,8.0,6.0,Cash,0.0,1.0,pc,1
+2026-11-21,06:42,T00456,Pandesal,Bakery,1,3.0,2.0,Cash,0.0,1.0,pc,1
+2026-11-21,18:04,T00437,Coke Mismo,Beverages,3,20.0,16.0,Utang,0.0,1.0,pc,1
+2026-11-21,06:37,T00448,Ice Candy,Snacks,1,5.0,3.0,Utang,0.0,1.0,pc,1
+2026-11-21,06:36,T00436,Pandesal,Bakery,2,3.0,2.0,Utang,0.0,1.0,pc,1
+2026-11-21,11:57,T00432,Royal Mismo,Beverages,2,20.0,16.0,Utang,0.0,1.0,pc,1
+2026-11-21,15:49,T00435,Pandesal,Bakery,3,3.0,2.0,GCash,0.0,1.0,pc,1
+2026-11-21,17:51,T00417,Coke Mismo,Beverages,2,20.0,16.0,GCash,0.0,1.0,pc,1
+2026-11-21,17:51,T00417,Datu Puti Soy Sauce,Staples,3,18.0,14.0,GCash,0.0,1.0,pc,1
+2026-11-21,09:19,T00418,Tasty Bread,Bakery,3,65.0,55.0,Cash,0.0,1.0,pc,1
+2026-11-21,12:13,T00419,Pandesal,Bakery,3,3.0,2.0,Utang,0.0,1.0,pc,1
+2026-11-21,08:27,T00420,Lucky Me Pancit Canton,Noodles,3,15.0,12.0,Utang,0.0,1.0,pc,1
+2026-11-21,08:27,T00420,Pandesal,Bakery,1,3.0,2.0,Utang,0.0,1.0,pc,1
+2026-11-21,13:06,T00421,Egg,Staples,3,9.0,7.0,GCash,0.0,1.0,pc,1
+2026-11-21,06:31,T00422,Ice Candy,Snacks,1,5.0,3.0,GCash,0.0,1.0,pc,1
+2026-11-21,13:25,T00423,Egg,Staples,3,9.0,7.0,Cash,0.0,1.0,pc,1
+2026-11-21,13:25,T00423,Cellphone Load 50,Load,2,50.0,47.0,Cash,0.0,1.0,pc,1
+2026-11-21,19:01,T00424,Sky Flakes,Snacks,3,8.0,6.0,Utang,0.0,1.0,pc,1
+2026-11-21,19:01,T00424,Pandesal,Bakery,1,3.0,2.0,Utang,0.0,1.0,pc,1
+2026-11-21,10:06,T00425,Ice Candy,Snacks,2,5.0,3.0,Cash,0.0,1.0,pc,1
+2026-11-21,18:15,T00426,Nescafe 3-in-1,Beverages,1,9.0,7.0,Cash,0.0,1.0,pc,1
+2026-11-21,18:15,T00426,Coke Mismo,Beverages,2,20.0,16.0,Cash,0.0,1.0,pc,1
+2026-11-21,13:25,T00423,Ice Candy,Snacks,1,5.0,3.0,Cash,0.0,1.0,pc,1
+2026-11-21,07:53,T00427,Sky Flakes,Snacks,1,8.0,6.0,Cash,0.0,1.0,pc,1
+2026-11-21,18:07,T00434,Pandesal,Bakery,1,3.0,2.0,Cash,0.0,1.0,pc,1
+2026-11-21,18:15,T00426,Cellphone Load 50,Load,2,50.0,47.0,Cash,0.0,1.0,pc,1
+2026-11-21,18:07,T00434,Egg,Staples,1,9.0,7.0,Cash,0.0,1.0,pc,1
+2026-11-21,08:35,T00433,Shampoo Sachet,Household,1,8.0,6.0,Cash,0.0,1.0,pc,1
+2026-11-21,11:57,T00432,Pandesal,Bakery,2,3.0,2.0,Utang,0.0,1.0,pc,1
+2026-11-21,15:49,T00435,Royal Mismo,Beverages,3,20.0,16.0,GCash,0.0,1.0,pc,1
+2026-11-21,09:49,T00431,Ice Candy,Snacks,2,5.0,3.0,Cash,0.0,1.0,pc,1
+2026-11-21,09:49,T00431,Pandesal,Bakery,2,3.0,2.0,Cash,0.0,1.0,pc,1
+2026-11-21,18:16,T00429,Nescafe 3-in-1,Beverages,3,9.0,7.0,Utang,0.0,1.0,pc,1
+2026-11-21,18:16,T00429,Egg,Staples,2,9.0,7.0,Utang,0.0,1.0,pc,1
+2026-11-21,18:16,T00429,Pandesal,Bakery,1,3.0,2.0,Utang,0.0,1.0,pc,1
+2026-11-21,16:53,T00428,Pandesal,Bakery,3,3.0,2.0,Cash,1.0,1.0,pc,1
+2026-11-21,07:53,T00427,Lucky Me Beef Noodles,Noodles,3,13.0,10.0,Cash,0.0,1.0,pc,1
+2026-11-21,07:53,T00427,Egg,Staples,3,9.0,7.0,Cash,0.0,1.0,pc,1
+2026-11-21,18:02,T00430,Egg,Staples,2,9.0,7.0,Utang,0.0,1.0,pc,1
+2026-11-22,12:37,T00485,Bottled Water 500ml,Beverages,3,15.0,11.0,Cash,0.0,1.0,pc,1
+2026-11-22,14:59,T00488,Egg,Staples,1,9.0,7.0,Utang,0.0,1.0,pc,1
+2026-11-22,06:37,T00487,Coke Mismo,Beverages,1,20.0,16.0,GCash,0.0,1.0,pc,1
+2026-11-22,06:37,T00487,Palmolive Soap,Household,1,30.0,24.0,GCash,0.0,1.0,pc,1
+2026-11-22,10:05,T00486,Kopiko 3-in-1,Beverages,2,8.0,6.0,Utang,0.0,1.0,pc,1
+2026-11-22,12:37,T00485,Egg,Staples,2,9.0,7.0,Cash,0.0,1.0,pc,1
+2026-11-22,08:26,T00478,Pandesal,Bakery,1,3.0,2.0,Cash,0.0,1.0,pc,1
+2026-11-22,18:44,T00483,Pandesal,Bakery,1,3.0,2.0,Cash,0.0,1.0,pc,1
+2026-11-22,18:44,T00483,Tide Sachet,Household,2,12.0,9.0,Cash,0.0,1.0,pc,1
+2026-11-22,17:48,T00482,Egg,Staples,1,9.0,7.0,Cash,0.0,1.0,pc,1
+2026-11-22,18:10,T00480,Pandesal,Bakery,3,3.0,2.0,Cash,0.0,1.0,pc,1
+2026-11-22,18:30,T00479,Pandesal,Bakery,2,3.0,2.0,Cash,0.0,1.0,pc,1
+2026-11-22,13:37,T00489,Ice Candy,Snacks,2,5.0,3.0,Cash,0.0,1.0,pc,1
+2026-11-22,17:06,T00484,Egg,Staples,1,9.0,7.0,GCash,0.0,1.0,pc,1
+2026-11-22,13:37,T00489,Pandesal,Bakery,2,3.0,2.0,Cash,0.0,1.0,pc,1
+2026-11-22,19:50,T00496,lucky me canton,Noodles,1,15.0,12.0,GCash,0.0,1.0,pc,1
+2026-11-22,18:19,T00490,Ice Candy,Snacks,1,5.0,3.0,Cash,0.0,1.0,pc,1
+2026-11-22,15:14,T00477,Rice (kilo),Staples,3,55.0,50.0,GCash,0.0,1.0,pc,1
+2026-11-22,19:50,T00496,Tide Sachet,Household,2,12.0,9.0,GCash,0.0,1.0,pc,1
+2026-11-22,08:56,T00495,Ice Candy,Snacks,2,5.0,3.0,Cash,0.0,1.0,pc,1
+2026-11-22,16:29,T00494,Sugar (kilo),Staples,1,70.0,64.0,Utang,0.0,1.0,pc,1
+2026-11-22,16:29,T00494,Coke Mismo,Beverages,1,20.0,16.0,Utang,0.0,1.0,pc,1
+2026-11-22,08:32,T00493,pandesal,Bakery,1,3.0,2.0,Cash,0.0,1.0,pc,1
+2026-11-22,18:19,T00490,Egg,Staples,3,9.0,7.0,Cash,0.0,1.0,pc,1
+2026-11-22,08:32,T00493,Coke Mismo,Beverages,2,20.0,16.0,Cash,0.0,1.0,pc,1
+2026-11-22,19:48,T00492,Royal Mismo,Beverages,1,20.0,16.0,Utang,0.0,1.0,pc,1
+2026-11-22,19:48,T00492,Pandesal,Bakery,2,3.0,2.0,Utang,0.0,1.0,pc,1
+2026-11-22,11:33,T00491,Shampoo Sachet,Household,1,8.0,6.0,Utang,0.0,1.0,pc,1
+2026-11-22,11:33,T00491,Pandesal,Bakery,2,3.0,2.0,Utang,0.0,1.0,pc,1
+2026-11-22,11:33,T00491,Ice Candy,Snacks,3,5.0,3.0,Utang,0.0,1.0,pc,1
+2026-11-22,18:19,T00490,Pandesal ,Bakery,1,3.0,2.0,Cash,0.0,1.0,pc,1
+2026-11-22,19:48,T00492,Ice Candy,Snacks,3,5.0,3.0,Utang,0.0,1.0,pc,1
+2026-11-22,15:14,T00477,Nescafe 3-in-1,Beverages,1,9.0,7.0,GCash,0.0,1.0,pc,1
+2026-11-22,10:17,T00481,pandesal,Bakery,2,3.0,2.0,Cash,0.0,1.0,pc,1
+2026-11-22,19:32,T00476,Egg,Staples,2,9.0,7.0,Utang,0.0,1.0,pc,1
+2026-11-22,09:26,T00464,Lucky Me Pancit Canton,Noodles,1,15.0,12.0,Cash,0.0,1.0,pc,1
+2026-11-22,09:26,T00463,Egg,Staples,2,9.0,7.0,Cash,0.0,1.0,pc,1
+2026-11-22,08:42,T00462,Piattos,Snacks,1,17.0,14.0,Cash,0.0,1.0,pc,1
+2026-11-22,08:42,T00462,Coke Mismo,Beverages,2,20.0,16.0,Cash,0.0,1.0,pc,1
+2026-11-22,20:54,T00461,KOPIKO 3-IN-1,Beverages,2,8.0,6.0,Cash,0.0,1.0,pc,1
+2026-11-22,09:21,T00460,Egg,Staples,2,9.0,7.0,Cash,0.0,1.0,pc,1
+2026-11-22,09:26,T00464,Piattos,Snacks,1,17.0,14.0,Cash,0.0,1.0,pc,1
+2026-11-22,18:49,T00459,Rice (kilo),Staples,2,55.0,50.0,GCash,0.0,1.0,pc,1
+2026-11-22,07:39,T00458,Egg,Staples,2,9.0,7.0,Cash,0.0,1.0,pc,1
+2026-11-22,07:39,T00458,Shampoo Sachet,Household,3,8.0,6.0,Cash,0.0,1.0,pc,1
+2026-11-22,13:22,T00457,Tide Sachet,Household,1,12.0,9.0,Cash,0.0,1.0,pc,1
+2026-11-22,13:22,T00457,Shampoo Sachet,Household,2,8.0,6.0,Cash,0.0,1.0,pc,1
+2026-11-22,13:22,T00457,Egg,Staples,3,9.0,7.0,Cash,0.0,1.0,pc,1
+2026-11-22,15:14,T00477,Pandesal,Bakery,1,3.0,2.0,GCash,1.0,1.0,pc,1
+2026-11-22,18:49,T00459,Lucky Me Pancit Canton,Noodles,2,15.0,12.0,GCash,0.0,1.0,pc,1
+2026-11-22,09:26,T00464,Shampoo Sachet,Household,3,8.0,6.0,Cash,0.0,1.0,pc,1
+2026-11-22,09:21,T00460,Shampoo Sachet,Household,1,8.0,6.0,Cash,0.0,1.0,pc,1
+2026-11-22,16:41,T00465,Shampoo Sachet,Household,1,8.0,6.0,Cash,0.0,1.0,pc,1
+2026-11-22,16:41,T00465,Pandesal,Bakery,3,3.0,2.0,Cash,0.0,1.0,pc,1
+2026-11-22,16:19,T00475,Ice Candy,Snacks,1,5.0,3.0,GCash,0.0,1.0,pc,1
+2026-11-22,16:36,T00474,Pandesal,Bakery,2,3.0,2.0,Cash,0.0,1.0,pc,1
+2026-11-22,16:36,T00474,Lucky Me Pancit Canton,Noodles,1,15.0,12.0,Cash,0.0,1.0,pc,1
+2026-11-22,15:47,T00473,Egg,Staples,1,9.0,7.0,Cash,0.0,1.0,pc,1
+2026-11-22,07:15,T00472,Palmolive Soap,Household,2,30.0,24.0,Cash,0.0,1.0,pc,1
+2026-11-22,07:15,T00472,Coke Mismo,Beverages,3,20.0,16.0,Cash,0.0,1.0,pc,1
+2026-11-22,15:47,T00473,Pandesal,Bakery,1,3.0,2.0,Cash,0.0,1.0,pc,1
+2026-11-22,07:54,T00471,Coke Mismo,Beverages,1,20.0,16.0,Cash,0.0,1.0,pc,1
+2026-11-22,18:36,T00470,Lucky Me Beef Noodles,Noodles,3,13.0,10.0,Cash,0.0,1.0,pc,1
+2026-11-22,08:16,T00469,Pandesal,Bakery,2,3.0,2.0,GCash,0.0,1.0,pc,1
+2026-11-22,13:41,T00468,Kopiko 3-in-1,Beverages,2,8.0,6.0,Cash,0.0,1.0,pc,1
+2026-11-22,07:02,T00467,Pandesal,Bakery,2,3.0,2.0,GCash,0.0,1.0,pc,1
+2026-11-22,11:40,T00466,Egg,Staples,3,9.0,7.0,Cash,0.0,1.0,pc,1
+2026-11-22,07:15,T00472,Egg,Staples,2,9.0,7.0,Cash,1.0,1.0,pc,1
+2026-11-23,13:53,T00510,Coke Mismo,Beverages,2,20.0,16.0,Utang,0.0,0.0,pc,1
+2026-11-23,15:37,T00512,Ice Candy,Snacks,1,5.0,3.0,Cash,0.0,0.0,pc,1
+2026-11-23,13:53,T00510,Egg,Staples,1,9.0,7.0,Utang,1.0,0.0,pc,1
+2026-11-23,08:58,T00511,Shampoo Sachet,Household,3,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-23,15:37,T00512,Tide Sachet,Household,2,12.0,9.0,Cash,0.0,0.0,pc,1
+2026-11-23,15:37,T00512,Shampoo Sachet,Household,1,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-23,16:51,T00513,Egg,Staples,2,9.0,7.0,Cash,0.0,0.0,pc,1
+2026-11-23,17:16,T00518,Lucky Me Beef Noodles,Noodles,3,13.0,10.0,GCash,0.0,0.0,pc,1
+2026-11-23,09:59,T00515,Shampoo Sachet,Household,1,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-23,09:59,T00515,Ice Candy,Snacks,1,5.0,3.0,Cash,0.0,0.0,pc,1
+2026-11-23,16:06,T00516,Pandesal ,Bakery,3,3.0,2.0,GCash,0.0,0.0,pc,1
+2026-11-23,10:27,T00517,Egg,Staples,2,9.0,7.0,Cash,0.0,0.0,pc,1
+2026-11-23,17:16,T00518,Palmolive Soap,Household,3,30.0,24.0,GCash,0.0,0.0,pc,1
+2026-11-23,17:16,T00518,Kopiko 3-in-1,Beverages,1,8.0,6.0,GCash,0.0,0.0,pc,1
+2026-11-23,15:49,T00509,Egg,Staples,2,9.0,7.0,Cash,0.0,0.0,pc,1
+2026-11-23,15:25,T00514,Kopiko 3-in-1,Beverages,2,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-23,11:44,T00508,Egg,Staples,3,9.0,7.0,Cash,0.0,0.0,pc,1
+2026-11-23,18:02,T00501,Nescafe 3-in-1,Beverages,2,9.0,7.0,Utang,0.0,0.0,pc,1
+2026-11-23,06:47,T00507,Egg,Staples,1,9.0,7.0,Cash,0.0,0.0,pc,1
+2026-11-23,20:08,T00497,Kopiko 3-in-1,Beverages,2,8.0,6.0,Utang,1.0,0.0,pc,1
+2026-11-23,06:47,T00507,Pandesal,Bakery,1,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-23,15:11,T00498,Shampoo Sachet,Household,3,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-23,10:59,T00499,Pandesal,Bakery,3,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-23,09:07,T00500,Shampoo Sachet,Household,2,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-23,09:07,T00500,Ice Candy,Snacks,3,5.0,3.0,Cash,0.0,0.0,pc,1
+2026-11-23,10:44,T00502,Nescafe 3-in-1,Beverages,1,9.0,7.0,Utang,0.0,0.0,pc,1
+2026-11-23,10:44,T00502,Cooking Oil Pouch,Staples,1,25.0,21.0,Utang,0.0,0.0,pc,1
+2026-11-23,09:07,T00500,Datu Puti Soy Sauce,Staples,2,18.0,14.0,Cash,0.0,0.0,pc,1
+2026-11-23,18:03,T00503,Egg,Staples,3,9.0,7.0,Utang,0.0,0.0,pc,1
+2026-11-23,18:03,T00503,Pandesal,Bakery,3,3.0,2.0,Utang,0.0,0.0,pc,1
+2026-11-23,14:38,T00504,Pandesal,Bakery,3,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-23,14:38,T00504,Cellphone Load 100,Load,3,100.0,96.0,Cash,0.0,0.0,pc,1
+2026-11-23,14:38,T00504,Shampoo Sachet,Household,1,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-23,16:55,T00505,Pandesal,Bakery,1,3.0,2.0,Utang,0.0,0.0,pc,1
+2026-11-23,10:44,T00502,Rice (kilo),Staples,3,55.0,50.0,Utang,0.0,0.0,pc,1
+2026-11-23,20:43,T00506,Ice Candy,Snacks,3,5.0,3.0,Cash,0.0,0.0,pc,1
+2026-11-24,10:43,T00539,Egg,Staples,3,9.0,7.0,Cash,0.0,0.0,pc,1
+2026-11-24,10:43,T00539,Ice Candy,Snacks,2,5.0,3.0,Cash,0.0,0.0,pc,1
+2026-11-24,19:24,T00538,Shampoo Sachet,Household,3,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-24,11:14,T00537,Cellphone Load 100,Load,2,100.0,96.0,GCash,0.0,0.0,pc,1
+2026-11-24,10:27,T00534,Shampoo Sachet,Household,3,8.0,6.0,GCash,0.0,0.0,pc,1
+2026-11-24,10:33,T00535,Nescafe 3-in-1,Beverages,3,9.0,7.0,Cash,0.0,0.0,pc,1
+2026-11-24,15:07,T00533,Nescafe 3-in-1,Beverages,3,9.0,7.0,Cash,0.0,0.0,pc,1
+2026-11-24,14:11,T00540,Pandesal,Bakery,2,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-24,10:15,T00532,Pandesal,Bakery,2,3.0,2.0,GCash,0.0,0.0,pc,1
+2026-11-24,09:36,T00536,Lucky Me Pancit Cantoon,Noodles,1,15.0,12.0,Cash,0.0,0.0,pc,1
+2026-11-24,14:11,T00540,Lucky Me Beef Noodles,Noodles,2,13.0,10.0,Cash,0.0,0.0,pc,1
+2026-11-24,16:04,T00544,Nescafe 3-in-1,Beverages,1,9.0,7.0,GCash,0.0,0.0,pc,1
+2026-11-24,19:59,T00541,Pandesal,Bakery,1,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-24,19:59,T00541,Tide Sachet,Household,2,12.0,9.0,Cash,1.0,0.0,pc,1
+2026-11-24,14:17,T00542,Pandesal,Bakery,2,3.0,2.0,GCash,0.0,0.0,pc,1
+2026-11-24,11:51,T00543,Pandesal,Bakery,3,3.0,2.0,GCash,0.0,0.0,pc,1
+2026-11-24,16:04,T00544,Pandesal,Bakery,1,3.0,2.0,GCash,0.0,0.0,pc,1
+2026-11-24,16:04,T00544,Tide Sachet,Household,1,12.0,9.0,GCash,0.0,0.0,pc,1
+2026-11-24,07:49,T00531,Kopiko 3-in-1,Beverages,1,8.0,6.0,GCash,0.0,0.0,pc,1
+2026-11-24,15:00,T00545,lucky me canton,Noodles,1,15.0,12.0,Cash,0.0,0.0,pc,1
+2026-11-24,15:00,T00545,Kopiko 3-in-1,Beverages,1,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-24,06:53,T00546,Ice Candy,Snacks,3,5.0,3.0,Cash,0.0,0.0,pc,1
+2026-11-24,19:12,T00547,Egg,Staples,3,9.0,7.0,Utang,1.0,0.0,pc,1
+2026-11-24,19:59,T00541,Sugar (kilo),Staples,1,70.0,64.0,Cash,0.0,0.0,pc,1
+2026-11-24,07:49,T00531,Pandesal,Bakery,1,3.0,2.0,GCash,0.0,0.0,pc,1
+2026-11-24,15:07,T00533,Egg,Staples,2,9.0,7.0,Cash,0.0,0.0,pc,1
+2026-11-24,06:39,T00530,Pandesal ,Bakery,1,3.0,2.0,Utang,0.0,0.0,pc,1
+2026-11-24,06:39,T00530,Egg,Staples,3,9.0,7.0,Utang,0.0,0.0,pc,1
+2026-11-24,11:22,T00519,Shampoo Sachet,Household,2,8.0,6.0,Utang,0.0,0.0,pc,1
+2026-11-24,11:22,T00519,Pandesal,Bakery,3,3.0,2.0,Utang,0.0,0.0,pc,1
+2026-11-24,11:22,T00519,Egg,Staples,3,9.0,7.0,Utang,0.0,0.0,pc,1
+2026-11-24,20:47,T00520,Cooking Oil Pouch,Staples,3,25.0,21.0,Cash,0.0,0.0,pc,1
+2026-11-24,15:22,T00521,Tide Sachet,Household,3,12.0,9.0,Utang,0.0,0.0,pc,1
+2026-11-24,15:22,T00521,Kopiko 3-in-1,Beverages,3,8.0,6.0,Utang,0.0,0.0,pc,1
+2026-11-24,15:22,T00521,Ice Candy,Snacks,2,5.0,3.0,Utang,0.0,0.0,pc,1
+2026-11-24,07:13,T00522,Kopiko 3-in-1,Beverages,1,8.0,6.0,GCash,0.0,0.0,pc,1
+2026-11-24,07:13,T00522,Ice Candy,Snacks,1,5.0,3.0,GCash,0.0,0.0,pc,1
+2026-11-24,20:22,T00523,Pandesal,Bakery,1,3.0,2.0,GCash,0.0,0.0,pc,1
+2026-11-24,17:59,T00524,Kopiko 3-in-1,Beverages,2,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-24,20:47,T00520,Pandesal,Bakery,2,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-24,17:59,T00524,Egg,Staples,2,9.0,7.0,Cash,0.0,0.0,pc,1
+2026-11-24,20:43,T00525,Ice Candy,Snacks,1,5.0,3.0,Cash,0.0,0.0,pc,1
+2026-11-24,20:43,T00525,Lucky Me Pancit Canton,Noodles,1,15.0,12.0,Cash,0.0,0.0,pc,1
+2026-11-24,10:17,T00526,Pandesal,Bakery,3,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-24,10:17,T00526,Piattos,Snacks,2,17.0,14.0,Cash,0.0,0.0,pc,1
+2026-11-24,13:28,T00527,Tide Sachet,Household,3,12.0,9.0,GCash,0.0,0.0,pc,1
+2026-11-24,06:20,T00528,Ice Candy,Snacks,2,5.0,3.0,Utang,0.0,0.0,pc,1
+2026-11-24,06:20,T00528,KOPIKO 3-IN-1,Beverages,3,8.0,6.0,Utang,0.0,0.0,pc,1
+2026-11-24,20:24,T00529,Nescafe 3-in-1,Beverages,3,9.0,7.0,Cash,0.0,0.0,pc,1
+2026-11-24,20:24,T00529,Pandesal,Bakery,1,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-24,20:24,T00529,Egg,Staples,3,9.0,7.0,Cash,0.0,0.0,pc,1
+2026-11-24,17:59,T00524,Sugar (kilo),Staples,3,70.0,64.0,Cash,0.0,0.0,pc,1
+2026-11-25,12:23,T00556,Egg,Staples,2,9.0,7.0,Cash,0.0,0.0,pc,1
+2026-11-25,15:44,T00557,Ice Candy,Snacks,1,5.0,3.0,Cash,0.0,0.0,pc,1
+2026-11-25,15:44,T00557,Pandesal,Bakery,1,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-25,15:44,T00557,Egg,Staples,2,9.0,7.0,Cash,0.0,0.0,pc,1
+2026-11-25,09:38,T00561,Shampoo Sachet,Household,3,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-25,11:02,T00559,Egg,Staples,1,9.0,7.0,Cash,0.0,0.0,pc,1
+2026-11-25,10:31,T00560,Shampoo Sachet,Household,3,8.0,6.0,GCash,0.0,0.0,pc,1
+2026-11-25,10:31,T00560,Piattos,Snacks,1,17.0,14.0,GCash,0.0,0.0,pc,1
+2026-11-25,12:23,T00556,Shampoo Sachet,Household,3,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-25,08:52,T00558,Egg,Staples,3,9.0,7.0,GCash,0.0,0.0,pc,1
+2026-11-25,12:23,T00556,pandesal,Bakery,1,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-25,17:27,T00551,Pandesal,Bakery,2,3.0,2.0,Utang,0.0,0.0,pc,1
+2026-11-25,06:25,T00554,Shampoo Sachet,Household,3,8.0,6.0,Utang,0.0,0.0,pc,1
+2026-11-25,06:17,T00553,Pandesal,Bakery,2,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-25,06:37,T00552,Sky Flakes,Snacks,3,8.0,6.0,GCash,0.0,0.0,pc,1
+2026-11-25,06:37,T00552,Lucky Me Pancit Canton,Noodles,1,15.0,12.0,GCash,0.0,0.0,pc,1
+2026-11-25,08:45,T00550,Lucky Me Pancit Cantoon,Noodles,3,15.0,12.0,Utang,0.0,0.0,pc,1
+2026-11-25,08:45,T00550,Pandesal,Bakery,2,3.0,2.0,Utang,0.0,0.0,pc,1
+2026-11-25,06:39,T00549,Nescafe 3-in-1,Beverages,1,9.0,7.0,Cash,0.0,0.0,pc,1
+2026-11-25,06:39,T00549,Pandesal,Bakery,1,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-25,16:08,T00548,Kopiko 3-in-1,Beverages,1,8.0,6.0,Cash,0.0,0.0,pc,1
+2026-11-25,16:08,T00548,Pandesal ,Bakery,3,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-25,20:25,T00555,Pandesal,Bakery,1,3.0,2.0,Cash,0.0,0.0,pc,1
+2026-11-25,06:22,T00562,Cellphone Load 50,Load,3,50.0,47.0,Cash,0.0,0.0,pc,1

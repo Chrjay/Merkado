@@ -1,0 +1,15 @@
+Week,Days,Lines,Units,Sales,Units_per_day,Units_vs_prev_%,Top_3,Check
+2025-12-29/2026-01-04,4,19,82,1243,20.5,,"Nescafe 3-in-1, Egg, Tide Sachet",partial week
+2026-01-05/2026-01-11,7,33,166,2349,23.7,,"Pandesal, Ice Candy, Nescafe 3-in-1",ok
+2026-01-12/2026-01-18,7,37,156,2089,22.3,-6.0,"Pandesal, Egg, Ice Candy",ok
+2026-01-19/2026-01-25,7,33,138,1791,19.7,-11.5,"Egg, Ice Candy, Sky Flakes",ok
+2026-01-26/2026-02-01,7,48,255,3490,36.4,84.8,"Pandesal, Egg, Kopiko 3-in-1",big change: check log
+2026-02-02/2026-02-08,7,34,177,2464,25.3,-30.6,"Pandesal, Egg, Kopiko 3-in-1",big change: check log
+2026-02-09/2026-02-15,7,45,261,2893,37.3,47.5,"Pandesal, Kopiko 3-in-1, Ice Candy",big change: check log
+2026-02-16/2026-02-22,7,40,243,2635,34.7,-6.9,"Pandesal, Egg, Shampoo Sachet",ok
+2026-02-23/2026-03-01,7,39,210,2202,30.0,-13.6,"Pandesal, Egg, Shampoo Sachet",ok
+2026-03-02/2026-03-08,7,40,205,2986,29.3,-2.4,"Pandesal, Egg, Tide Sachet",ok
+2026-03-09/2026-03-15,7,38,202,2325,28.9,-1.5,"Pandesal, Shampoo Sachet, Nescafe 3-in-1",ok
+2026-03-16/2026-03-22,7,36,234,2150,33.4,15.8,"Pandesal, Ice Candy, Kopiko 3-in-1",ok
+2026-03-23/2026-03-29,7,37,218,2269,31.1,-6.8,"Pandesal, Lucky Me Pancit Canton, Coke Mismo",ok
+2026-03-30/2026-04-05,2,15,60,1184,30.0,,"Egg, Tide Sachet, Nescafe 3-in-1",partial week

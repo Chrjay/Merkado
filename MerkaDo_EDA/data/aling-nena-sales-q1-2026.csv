@@ -1,0 +1,495 @@
+﻿Date,Product,Category,Qty,UnitPrice,UnitCost,PaymentType
+2026-01-01,Cellphone Load 50,Load,1,50,47,Cash
+2026-01-01,Lucky Me Pancit Canton,Noodles,1,15,12,GCash
+2026-01-01,Sky Flakes,Snacks,2,8,6,GCash
+2026-01-02,Cellphone Load 50,Load,1,50,47,Cash
+2026-01-02,Palmolive Soap,Household,3,30,24,Cash
+2026-01-02,Tide Sachet,Household,6,12,9,Cash
+2026-01-03,Shampoo Sachet,Household,2,8,6,GCash
+2026-01-03,Lucky Me Pancit Canton,Noodles,4,15,12,Cash
+2026-01-03,Lucky Me Pancit Canton,Noodles,3,15,12,Cash
+2026-01-03,Nescafe 3-in-1,Beverages,7,9,7,GCash
+2026-01-03,Palmolive Soap,Household,1,30,24,GCash
+2026-01-03,Tasty Bread,Bakery,2,65,55,Cash
+2026-01-03,Royal Mismo,Beverages,5,20,16,Utang
+2026-01-03,Kopiko 3-in-1,Beverages,5,8,6,GCash
+2026-01-04,Tide Sachet,Household,8,12,9,Cash
+2026-01-04,Cellphone Load 100,Load,1,100,96,GCash
+2026-01-04,Nescafe 3-in-1,Beverages,9,9,7,GCash
+2026-01-04,Nescafe 3-in-1,Beverages,7,9,7,Cash
+2026-01-04,Egg,Staples,14,9,7,Utang
+2026-01-05,Palmolive Soap,Household,1,30,24,Cash
+2026-01-05,Coke Mismo,Beverages,4,20,16,Cash
+2026-01-05,Ice Candy,Snacks,11,5,3,Cash
+2026-01-06,Datu Puti Soy Sauce,Staples,1,18,14,Cash
+2026-01-06,Cellphone Load 50,Load,1,50,47,Cash
+2026-01-06,Cellphone Load 100,Load,1,100,96,Cash
+2026-01-06,Pandesal,Bakery,25,3,2,Cash
+2026-01-06,Royal Mismo,Beverages,2,20,16,GCash
+2026-01-07,Rice (kilo),Staples,4,55,50,Utang
+2026-01-07,Nescafe 3-in-1,Beverages,5,9,7,Utang
+2026-01-07,Lucky Me Pancit Canton,Noodles,4,15,12,Cash
+2026-01-07,Cellphone Load 50,Load,1,50,47,Cash
+2026-01-07,Lucky Me Pancit Canton,Noodles,6,15,12,Cash
+2026-01-08,Nescafe 3-in-1,Beverages,9,9,7,Cash
+2026-01-08,Ice Candy,Snacks,3,5,3,GCash
+2026-01-08,Lucky Me Pancit Canton,Noodles,5,15,12,GCash
+2026-01-09,Lucky Me Pancit Canton,Noodles,4,15,12,Cash
+2026-01-09,Cellphone Load 50,Load,1,50,47,Utang
+2026-01-09,Rice (kilo),Staples,5,55,50,Utang
+2026-01-09,Sky Flakes,Snacks,5,8,6,GCash
+2026-01-09,Pandesal,Bakery,11,3,2,Cash
+2026-01-10,Tasty Bread,Bakery,1,65,55,GCash
+2026-01-10,Pandesal,Bakery,8,3,2,Utang
+2026-01-10,Sky Flakes,Snacks,5,8,6,Cash
+2026-01-10,Coke Mismo,Beverages,5,20,16,Utang
+2026-01-10,Cellphone Load 100,Load,1,100,96,GCash
+2026-01-10,Ice Candy,Snacks,11,5,3,GCash
+2026-01-11,Tide Sachet,Household,6,12,9,Cash
+2026-01-11,Tasty Bread,Bakery,2,65,55,Utang
+2026-01-11,Piattos,Snacks,2,17,14,GCash
+2026-01-11,Nescafe 3-in-1,Beverages,7,9,7,Cash
+2026-01-11,Pandesal,Bakery,8,3,2,Cash
+2026-01-11,Cellphone Load 100,Load,1,100,96,GCash
+2026-01-12,Shampoo Sachet,Household,2,8,6,Cash
+2026-01-12,Tide Sachet,Household,3,12,9,Cash
+2026-01-12,Cellphone Load 50,Load,1,50,47,Cash
+2026-01-12,Coke Mismo,Beverages,6,20,16,GCash
+2026-01-13,Egg,Staples,12,9,7,Utang
+2026-01-13,Coke Mismo,Beverages,4,20,16,GCash
+2026-01-13,Lucky Me Beef Noodles,Noodles,1,13,10,GCash
+2026-01-13,Kopiko 3-in-1,Beverages,8,8,6,Cash
+2026-01-13,Rice (kilo),Staples,1,55,50,Cash
+2026-01-13,Rice (kilo),Staples,1,55,50,Cash
+2026-01-14,Tasty Bread,Bakery,1,65,55,Cash
+2026-01-14,Royal Mismo,Beverages,2,20,16,Utang
+2026-01-14,Cellphone Load 100,Load,1,100,96,Cash
+2026-01-14,Ice Candy,Snacks,3,5,3,Utang
+2026-01-14,Piattos,Snacks,2,17,14,Cash
+2026-01-14,Pandesal,Bakery,11,3,2,Utang
+2026-01-15,Lucky Me Beef Noodles,Noodles,1,13,10,Utang
+2026-01-15,Royal Mismo,Beverages,4,20,16,Cash
+2026-01-15,Egg,Staples,14,9,7,Utang
+2026-01-15,Shampoo Sachet,Household,9,8,6,Cash
+2026-01-15,Royal Mismo,Beverages,1,20,16,GCash
+2026-01-16,Rice (kilo),Staples,1,55,50,Cash
+2026-01-16,Pandesal,Bakery,21,3,2,Cash
+2026-01-16,Ice Candy,Snacks,4,5,3,Utang
+2026-01-16,Cellphone Load 100,Load,1,100,96,GCash
+2026-01-16,Coke Mismo,Beverages,1,20,16,Utang
+2026-01-17,Shampoo Sachet,Household,2,8,6,GCash
+2026-01-17,Bottled Water 500ml,Beverages,3,15,11,Utang
+2026-01-17,Lucky Me Beef Noodles,Noodles,3,13,10,Cash
+2026-01-17,Nescafe 3-in-1,Beverages,6,9,7,Cash
+2026-01-17,Piattos,Snacks,1,17,14,Cash
+2026-01-17,Palmolive Soap,Household,3,30,24,Utang
+2026-01-18,Tasty Bread,Bakery,2,65,55,Cash
+2026-01-18,Kopiko 3-in-1,Beverages,3,8,6,Utang
+2026-01-18,Nescafe 3-in-1,Beverages,4,9,7,Cash
+2026-01-18,Tasty Bread,Bakery,2,65,55,GCash
+2026-01-18,Ice Candy,Snacks,11,5,3,Cash
+2026-01-19,Piattos,Snacks,1,17,14,Utang
+2026-01-19,Lucky Me Pancit Canton,Noodles,1,15,12,Utang
+2026-01-19,Rice (kilo),Staples,2,55,50,Cash
+2026-01-19,Palmolive Soap,Household,3,30,24,Cash
+2026-01-19,Egg,Staples,7,9,7,GCash
+2026-01-20,Piattos,Snacks,1,17,14,Cash
+2026-01-20,Bottled Water 500ml,Beverages,3,15,11,Cash
+2026-01-20,Kopiko 3-in-1,Beverages,4,8,6,GCash
+2026-01-20,Coke Mismo,Beverages,6,20,16,GCash
+2026-01-20,Egg,Staples,11,9,7,Cash
+2026-01-21,Ice Candy,Snacks,5,5,3,Cash
+2026-01-21,Datu Puti Soy Sauce,Staples,3,18,14,GCash
+2026-01-21,Bottled Water 500ml,Beverages,1,15,11,Cash
+2026-01-22,Sky Flakes,Snacks,4,8,6,GCash
+2026-01-22,Egg,Staples,8,9,7,Utang
+2026-01-22,Sky Flakes,Snacks,7,8,6,Utang
+2026-01-23,Piattos,Snacks,2,17,14,Utang
+2026-01-23,Ice Candy,Snacks,5,5,3,Utang
+2026-01-23,Cellphone Load 50,Load,1,50,47,GCash
+2026-01-23,Bottled Water 500ml,Beverages,2,15,11,Cash
+2026-01-24,Nescafe 3-in-1,Beverages,2,9,7,Utang
+2026-01-24,Coke Mismo,Beverages,4,20,16,Cash
+2026-01-24,Cooking Oil Pouch,Staples,2,25,21,Cash
+2026-01-24,Tide Sachet,Household,5,12,9,Cash
+2026-01-24,Sky Flakes,Snacks,5,8,6,Cash
+2026-01-25,Egg,Staples,11,9,7,Cash
+2026-01-25,Cellphone Load 50,Load,1,50,47,Cash
+2026-01-25,Ice Candy,Snacks,7,5,3,Cash
+2026-01-25,Palmolive Soap,Household,2,30,24,GCash
+2026-01-25,Kopiko 3-in-1,Beverages,11,8,6,Utang
+2026-01-25,Lucky Me Pancit Canton,Noodles,5,15,12,Cash
+2026-01-25,Cellphone Load 50,Load,1,50,47,Cash
+2026-01-25,Piattos,Snacks,5,17,14,GCash
+2026-01-26,Nescafe 3-in-1,Beverages,3,9,7,Utang
+2026-01-26,Piattos,Snacks,5,17,14,Cash
+2026-01-26,Datu Puti Soy Sauce,Staples,3,18,14,Utang
+2026-01-26,Pandesal,Bakery,18,3,2,Cash
+2026-01-27,Shampoo Sachet,Household,5,8,6,Cash
+2026-01-27,Ice Candy,Snacks,5,5,3,GCash
+2026-01-27,Kopiko 3-in-1,Beverages,10,8,6,GCash
+2026-01-27,Kopiko 3-in-1,Beverages,5,8,6,Cash
+2026-01-27,Shampoo Sachet,Household,7,8,6,Cash
+2026-01-28,Egg,Staples,11,9,7,GCash
+2026-01-28,Piattos,Snacks,2,17,14,GCash
+2026-01-28,Royal Mismo,Beverages,5,20,16,Cash
+2026-01-28,Cooking Oil Pouch,Staples,2,25,21,Utang
+2026-01-28,Coke Mismo,Beverages,2,20,16,Cash
+2026-01-28,Cellphone Load 50,Load,1,50,47,GCash
+2026-01-28,Sugar (kilo),Staples,2,70,64,GCash
+2026-01-28,Tide Sachet,Household,3,12,9,GCash
+2026-01-29,Pandesal,Bakery,12,3,2,Cash
+2026-01-29,Egg,Staples,15,9,7,Utang
+2026-01-29,Sky Flakes,Snacks,7,8,6,Cash
+2026-01-29,Cooking Oil Pouch,Staples,4,25,21,Cash
+2026-01-29,Coke Mismo,Beverages,1,20,16,Cash
+2026-01-29,Cooking Oil Pouch,Staples,3,25,21,Utang
+2026-01-29,Sky Flakes,Snacks,7,8,6,GCash
+2026-01-29,Shampoo Sachet,Household,4,8,6,GCash
+2026-01-30,Pandesal,Bakery,12,3,2,GCash
+2026-01-30,Royal Mismo,Beverages,5,20,16,GCash
+2026-01-30,Coke Mismo,Beverages,4,20,16,Cash
+2026-01-30,Royal Mismo,Beverages,3,20,16,Cash
+2026-01-30,Sky Flakes,Snacks,2,8,6,Cash
+2026-01-30,Coke Mismo,Beverages,6,20,16,Cash
+2026-01-30,Coke Mismo,Beverages,4,20,16,Cash
+2026-01-30,Tasty Bread,Bakery,2,65,55,Cash
+2026-01-31,Nescafe 3-in-1,Beverages,2,9,7,Utang
+2026-01-31,Rice (kilo),Staples,4,55,50,GCash
+2026-01-31,Ice Candy,Snacks,7,5,3,GCash
+2026-01-31,Datu Puti Soy Sauce,Staples,2,18,14,GCash
+2026-01-31,Rice (kilo),Staples,5,55,50,Utang
+2026-01-31,Pandesal,Bakery,13,3,2,Cash
+2026-01-31,Cellphone Load 50,Load,1,50,47,GCash
+2026-01-31,Cooking Oil Pouch,Staples,2,25,21,Utang
+2026-01-31,Piattos,Snacks,5,17,14,Cash
+2026-01-31,Piattos,Snacks,5,17,14,GCash
+2026-02-01,Cellphone Load 100,Load,1,100,96,Cash
+2026-02-01,Pandesal,Bakery,6,3,2,Cash
+2026-02-01,Kopiko 3-in-1,Beverages,9,8,6,Cash
+2026-02-01,Rice (kilo),Staples,4,55,50,Cash
+2026-02-01,Ice Candy,Snacks,9,5,3,Cash
+2026-02-02,Pandesal,Bakery,22,3,2,Cash
+2026-02-02,Ice Candy,Snacks,6,5,3,GCash
+2026-02-02,Sugar (kilo),Staples,3,70,64,Cash
+2026-02-03,Ice Candy,Snacks,6,5,3,GCash
+2026-02-03,Palmolive Soap,Household,1,30,24,Cash
+2026-02-03,Egg,Staples,12,9,7,Utang
+2026-02-04,Egg,Staples,15,9,7,GCash
+2026-02-04,Palmolive Soap,Household,3,30,24,GCash
+2026-02-04,Sugar (kilo),Staples,1,70,64,Utang
+2026-02-04,Lucky Me Pancit Canton,Noodles,1,15,12,Utang
+2026-02-04,Shampoo Sachet,Household,8,8,6,Cash
+2026-02-04,Egg,Staples,4,9,7,GCash
+2026-02-05,Lucky Me Pancit Canton,Noodles,3,15,12,Utang
+2026-02-05,Palmolive Soap,Household,1,30,24,GCash
+2026-02-05,Shampoo Sachet,Household,2,8,6,Cash
+2026-02-05,Bottled Water 500ml,Beverages,3,15,11,Cash
+2026-02-06,Cellphone Load 50,Load,1,50,47,GCash
+2026-02-06,Lucky Me Pancit Canton,Noodles,3,15,12,GCash
+2026-02-06,Cooking Oil Pouch,Staples,2,25,21,Cash
+2026-02-06,Rice (kilo),Staples,3,55,50,Utang
+2026-02-06,Piattos,Snacks,4,17,14,Cash
+2026-02-07,Kopiko 3-in-1,Beverages,5,8,6,GCash
+2026-02-07,Cellphone Load 100,Load,1,100,96,Cash
+2026-02-07,Pandesal,Bakery,24,3,2,GCash
+2026-02-07,Kopiko 3-in-1,Beverages,9,8,6,Utang
+2026-02-07,Lucky Me Beef Noodles,Noodles,2,13,10,Cash
+2026-02-07,Coke Mismo,Beverages,3,20,16,Utang
+2026-02-07,Egg,Staples,7,9,7,GCash
+2026-02-08,Cellphone Load 100,Load,1,100,96,GCash
+2026-02-08,Rice (kilo),Staples,4,55,50,Utang
+2026-02-08,Pandesal,Bakery,5,3,2,Cash
+2026-02-08,Coke Mismo,Beverages,6,20,16,Cash
+2026-02-08,Tide Sachet,Household,4,12,9,Cash
+2026-02-08,Tasty Bread,Bakery,2,65,55,Utang
+2026-02-09,Kopiko 3-in-1,Beverages,9,8,6,Cash
+2026-02-09,Coke Mismo,Beverages,1,20,16,GCash
+2026-02-09,Kopiko 3-in-1,Beverages,10,8,6,Utang
+2026-02-09,Egg,Staples,6,9,7,Cash
+2026-02-09,Pandesal,Bakery,23,3,2,Utang
+2026-02-10,Ice Candy,Snacks,6,5,3,Cash
+2026-02-10,Kopiko 3-in-1,Beverages,6,8,6,Cash
+2026-02-10,Tasty Bread,Bakery,2,65,55,Cash
+2026-02-10,Cellphone Load 50,Load,1,50,47,GCash
+2026-02-10,Lucky Me Pancit Canton,Noodles,4,15,12,Cash
+2026-02-11,Shampoo Sachet,Household,9,8,6,Cash
+2026-02-11,Kopiko 3-in-1,Beverages,2,8,6,Cash
+2026-02-11,Sky Flakes,Snacks,2,8,6,GCash
+2026-02-12,Pandesal,Bakery,23,3,2,GCash
+2026-02-12,Cellphone Load 50,Load,1,50,47,GCash
+2026-02-12,Ice Candy,Snacks,4,5,3,Utang
+2026-02-12,Lucky Me Pancit Canton,Noodles,4,15,12,GCash
+2026-02-12,Sugar (kilo),Staples,1,70,64,Utang
+2026-02-12,Nescafe 3-in-1,Beverages,9,9,7,Cash
+2026-02-13,Kopiko 3-in-1,Beverages,11,8,6,Cash
+2026-02-13,Ice Candy,Snacks,4,5,3,Utang
+2026-02-13,Coke Mismo,Beverages,2,20,16,Cash
+2026-02-13,Cellphone Load 100,Load,1,100,96,Cash
+2026-02-13,Cellphone Load 100,Load,1,100,96,GCash
+2026-02-13,Egg,Staples,10,9,7,Cash
+2026-02-13,Coke Mismo,Beverages,6,20,16,Cash
+2026-02-13,Sky Flakes,Snacks,2,8,6,GCash
+2026-02-14,Sugar (kilo),Staples,3,70,64,Utang
+2026-02-14,Cooking Oil Pouch,Staples,2,25,21,Cash
+2026-02-14,Tasty Bread,Bakery,1,65,55,Utang
+2026-02-14,Cooking Oil Pouch,Staples,1,25,21,Cash
+2026-02-14,Sugar (kilo),Staples,3,70,64,Utang
+2026-02-14,Shampoo Sachet,Household,6,8,6,Cash
+2026-02-14,Pandesal,Bakery,14,3,2,GCash
+2026-02-14,Ice Candy,Snacks,11,5,3,Cash
+2026-02-14,Bottled Water 500ml,Beverages,1,15,11,Utang
+2026-02-15,Palmolive Soap,Household,1,30,24,Cash
+2026-02-15,Ice Candy,Snacks,12,5,3,GCash
+2026-02-15,Cellphone Load 50,Load,1,50,47,GCash
+2026-02-15,Rice (kilo),Staples,2,55,50,GCash
+2026-02-15,Tide Sachet,Household,4,12,9,Cash
+2026-02-15,Shampoo Sachet,Household,9,8,6,Utang
+2026-02-15,Pandesal,Bakery,18,3,2,Cash
+2026-02-15,Egg,Staples,5,9,7,Cash
+2026-02-15,Egg,Staples,7,9,7,Utang
+2026-02-16,Cooking Oil Pouch,Staples,1,25,21,GCash
+2026-02-16,Kopiko 3-in-1,Beverages,7,8,6,Cash
+2026-02-16,Sugar (kilo),Staples,3,70,64,Utang
+2026-02-16,Cellphone Load 50,Load,1,50,47,Cash
+2026-02-16,Lucky Me Beef Noodles,Noodles,3,13,10,GCash
+2026-02-16,Pandesal,Bakery,19,3,2,GCash
+2026-02-16,Lucky Me Beef Noodles,Noodles,5,13,10,Cash
+2026-02-16,Royal Mismo,Beverages,4,20,16,Cash
+2026-02-17,Egg,Staples,7,9,7,GCash
+2026-02-17,Shampoo Sachet,Household,3,8,6,Cash
+2026-02-17,Datu Puti Soy Sauce,Staples,1,18,14,GCash
+2026-02-17,Lucky Me Pancit Canton,Noodles,2,15,12,Cash
+2026-02-18,Pandesal,Bakery,13,3,2,Cash
+2026-02-18,Pandesal,Bakery,20,3,2,Cash
+2026-02-18,Shampoo Sachet,Household,8,8,6,Cash
+2026-02-18,Palmolive Soap,Household,3,30,24,Utang
+2026-02-18,Sky Flakes,Snacks,5,8,6,GCash
+2026-02-19,Kopiko 3-in-1,Beverages,10,8,6,Cash
+2026-02-19,Cellphone Load 50,Load,1,50,47,GCash
+2026-02-19,Shampoo Sachet,Household,9,8,6,Utang
+2026-02-19,Pandesal,Bakery,20,3,2,Cash
+2026-02-19,Shampoo Sachet,Household,10,8,6,Cash
+2026-02-19,Piattos,Snacks,2,17,14,Utang
+2026-02-20,Shampoo Sachet,Household,5,8,6,Utang
+2026-02-20,Bottled Water 500ml,Beverages,3,15,11,GCash
+2026-02-20,Egg,Staples,15,9,7,GCash
+2026-02-20,Ice Candy,Snacks,5,5,3,Cash
+2026-02-21,Lucky Me Pancit Canton,Noodles,5,15,12,Cash
+2026-02-21,Lucky Me Pancit Canton,Noodles,4,15,12,Cash
+2026-02-21,Piattos,Snacks,1,17,14,GCash
+2026-02-21,Bottled Water 500ml,Beverages,2,15,11,Cash
+2026-02-21,Sugar (kilo),Staples,2,70,64,GCash
+2026-02-22,Tide Sachet,Household,8,12,9,Cash
+2026-02-22,Egg,Staples,11,9,7,Cash
+2026-02-22,Kopiko 3-in-1,Beverages,9,8,6,Utang
+2026-02-22,Cellphone Load 50,Load,1,50,47,Cash
+2026-02-22,Egg,Staples,7,9,7,Utang
+2026-02-22,Rice (kilo),Staples,4,55,50,Utang
+2026-02-22,Rice (kilo),Staples,1,55,50,Cash
+2026-02-22,Egg,Staples,3,9,7,Cash
+2026-02-23,Royal Mismo,Beverages,3,20,16,Cash
+2026-02-23,Coke Mismo,Beverages,4,20,16,GCash
+2026-02-23,Sugar (kilo),Staples,1,70,64,Cash
+2026-02-24,Palmolive Soap,Household,1,30,24,Cash
+2026-02-24,Shampoo Sachet,Household,5,8,6,Cash
+2026-02-24,Coke Mismo,Beverages,3,20,16,GCash
+2026-02-24,Sky Flakes,Snacks,8,8,6,Utang
+2026-02-24,Egg,Staples,5,9,7,Cash
+2026-02-24,Ice Candy,Snacks,12,5,3,Cash
+2026-02-25,Egg,Staples,10,9,7,Utang
+2026-02-25,Lucky Me Beef Noodles,Noodles,4,13,10,Utang
+2026-02-25,Lucky Me Pancit Canton,Noodles,4,15,12,GCash
+2026-02-25,Shampoo Sachet,Household,6,8,6,Cash
+2026-02-25,Datu Puti Soy Sauce,Staples,2,18,14,Cash
+2026-02-25,Shampoo Sachet,Household,2,8,6,Utang
+2026-02-26,Datu Puti Soy Sauce,Staples,2,18,14,Utang
+2026-02-26,Coke Mismo,Beverages,3,20,16,Cash
+2026-02-26,Lucky Me Beef Noodles,Noodles,3,13,10,GCash
+2026-02-26,Egg,Staples,13,9,7,Utang
+2026-02-26,Lucky Me Pancit Canton,Noodles,1,15,12,Utang
+2026-02-26,Tide Sachet,Household,4,12,9,GCash
+2026-02-27,Shampoo Sachet,Household,4,8,6,Cash
+2026-02-27,Royal Mismo,Beverages,4,20,16,Cash
+2026-02-27,Lucky Me Pancit Canton,Noodles,5,15,12,Utang
+2026-02-28,Tasty Bread,Bakery,2,65,55,Utang
+2026-02-28,Coke Mismo,Beverages,4,20,16,Utang
+2026-02-28,Royal Mismo,Beverages,3,20,16,GCash
+2026-02-28,Pandesal,Bakery,7,3,2,Cash
+2026-02-28,Ice Candy,Snacks,9,5,3,Utang
+2026-02-28,Cooking Oil Pouch,Staples,3,25,21,Cash
+2026-02-28,Nescafe 3-in-1,Beverages,6,9,7,Cash
+2026-02-28,Pandesal,Bakery,13,3,2,GCash
+2026-02-28,Cooking Oil Pouch,Staples,3,25,21,Cash
+2026-03-01,Pandesal,Bakery,24,3,2,Utang
+2026-03-01,Shampoo Sachet,Household,5,8,6,GCash
+2026-03-01,Tide Sachet,Household,5,12,9,Utang
+2026-03-01,Kopiko 3-in-1,Beverages,8,8,6,Cash
+2026-03-01,Cellphone Load 50,Load,1,50,47,Cash
+2026-03-01,Pandesal,Bakery,8,3,2,Cash
+2026-03-02,Nescafe 3-in-1,Beverages,7,9,7,GCash
+2026-03-02,Rice (kilo),Staples,5,55,50,GCash
+2026-03-02,Rice (kilo),Staples,2,55,50,Utang
+2026-03-02,Tide Sachet,Household,8,12,9,Cash
+2026-03-03,Ice Candy,Snacks,7,5,3,Cash
+2026-03-03,Nescafe 3-in-1,Beverages,9,9,7,Cash
+2026-03-03,Coke Mismo,Beverages,3,20,16,Cash
+2026-03-03,Egg,Staples,11,9,7,Utang
+2026-03-03,Tide Sachet,Household,2,12,9,Cash
+2026-03-03,Lucky Me Beef Noodles,Noodles,1,13,10,Utang
+2026-03-04,Cellphone Load 100,Load,1,100,96,GCash
+2026-03-04,Palmolive Soap,Household,1,30,24,Cash
+2026-03-04,Kopiko 3-in-1,Beverages,4,8,6,GCash
+2026-03-04,Lucky Me Beef Noodles,Noodles,5,13,10,Cash
+2026-03-04,Coke Mismo,Beverages,2,20,16,Cash
+2026-03-04,Lucky Me Pancit Canton,Noodles,5,15,12,Cash
+2026-03-05,Ice Candy,Snacks,11,5,3,Cash
+2026-03-05,Lucky Me Beef Noodles,Noodles,1,13,10,Cash
+2026-03-05,Kopiko 3-in-1,Beverages,5,8,6,GCash
+2026-03-05,Cellphone Load 50,Load,1,50,47,Cash
+2026-03-06,Tasty Bread,Bakery,1,65,55,Cash
+2026-03-06,Sugar (kilo),Staples,3,70,64,Utang
+2026-03-06,Pandesal,Bakery,12,3,2,Utang
+2026-03-06,Cellphone Load 50,Load,1,50,47,GCash
+2026-03-06,Ice Candy,Snacks,3,5,3,Utang
+2026-03-06,Datu Puti Soy Sauce,Staples,2,18,14,Utang
+2026-03-07,Egg,Staples,10,9,7,Cash
+2026-03-07,Cellphone Load 100,Load,1,100,96,Cash
+2026-03-07,Royal Mismo,Beverages,5,20,16,GCash
+2026-03-07,Kopiko 3-in-1,Beverages,11,8,6,Cash
+2026-03-07,Pandesal,Bakery,24,3,2,Cash
+2026-03-07,Sugar (kilo),Staples,1,70,64,Utang
+2026-03-07,Tide Sachet,Household,8,12,9,GCash
+2026-03-07,Sky Flakes,Snacks,7,8,6,Cash
+2026-03-08,Bottled Water 500ml,Beverages,4,15,11,Cash
+2026-03-08,Rice (kilo),Staples,3,55,50,GCash
+2026-03-08,Tide Sachet,Household,4,12,9,Utang
+2026-03-08,Egg,Staples,10,9,7,Cash
+2026-03-08,Datu Puti Soy Sauce,Staples,1,18,14,Cash
+2026-03-08,Rice (kilo),Staples,3,55,50,Utang
+2026-03-09,Shampoo Sachet,Household,10,8,6,GCash
+2026-03-09,Egg,Staples,9,9,7,Cash
+2026-03-09,Tide Sachet,Household,8,12,9,Cash
+2026-03-10,Ice Candy,Snacks,12,5,3,Cash
+2026-03-10,Lucky Me Pancit Canton,Noodles,5,15,12,Cash
+2026-03-10,Tide Sachet,Household,3,12,9,GCash
+2026-03-11,Datu Puti Soy Sauce,Staples,2,18,14,Cash
+2026-03-11,Royal Mismo,Beverages,2,20,16,GCash
+2026-03-11,Datu Puti Soy Sauce,Staples,3,18,14,GCash
+2026-03-11,Tide Sachet,Household,2,12,9,GCash
+2026-03-11,Tide Sachet,Household,7,12,9,Cash
+2026-03-12,Royal Mismo,Beverages,3,20,16,Utang
+2026-03-12,Kopiko 3-in-1,Beverages,4,8,6,Utang
+2026-03-12,Shampoo Sachet,Household,8,8,6,Cash
+2026-03-12,Rice (kilo),Staples,1,55,50,Cash
+2026-03-13,Nescafe 3-in-1,Beverages,9,9,7,Cash
+2026-03-13,Nescafe 3-in-1,Beverages,7,9,7,GCash
+2026-03-13,Shampoo Sachet,Household,3,8,6,Utang
+2026-03-13,Lucky Me Pancit Canton,Noodles,5,15,12,Cash
+2026-03-13,Cellphone Load 100,Load,1,100,96,GCash
+2026-03-13,Pandesal,Bakery,19,3,2,Cash
+2026-03-14,Rice (kilo),Staples,1,55,50,Cash
+2026-03-14,Lucky Me Pancit Canton,Noodles,6,15,12,GCash
+2026-03-14,Pandesal,Bakery,14,3,2,Cash
+2026-03-14,Nescafe 3-in-1,Beverages,2,9,7,Cash
+2026-03-14,Kopiko 3-in-1,Beverages,5,8,6,GCash
+2026-03-14,Rice (kilo),Staples,3,55,50,GCash
+2026-03-14,Cellphone Load 50,Load,1,50,47,Cash
+2026-03-14,Nescafe 3-in-1,Beverages,5,9,7,Cash
+2026-03-15,Cellphone Load 100,Load,1,100,96,GCash
+2026-03-15,Pandesal,Bakery,7,3,2,Utang
+2026-03-15,Shampoo Sachet,Household,8,8,6,GCash
+2026-03-15,Bottled Water 500ml,Beverages,1,15,11,Cash
+2026-03-15,Ice Candy,Snacks,5,5,3,GCash
+2026-03-15,Palmolive Soap,Household,3,30,24,Utang
+2026-03-15,Cellphone Load 100,Load,1,100,96,Cash
+2026-03-15,Shampoo Sachet,Household,10,8,6,Cash
+2026-03-15,Sky Flakes,Snacks,6,8,6,Cash
+2026-03-16,Cellphone Load 100,Load,1,100,96,GCash
+2026-03-16,Lucky Me Beef Noodles,Noodles,3,13,10,Cash
+2026-03-16,Ice Candy,Snacks,5,5,3,Cash
+2026-03-16,Lucky Me Pancit Canton,Noodles,2,15,12,Cash
+2026-03-16,Lucky Me Pancit Canton,Noodles,6,15,12,Cash
+2026-03-16,Ice Candy,Snacks,10,5,3,Cash
+2026-03-17,Egg,Staples,12,9,7,Utang
+2026-03-17,Ice Candy,Snacks,8,5,3,Utang
+2026-03-17,Tide Sachet,Household,3,12,9,Cash
+2026-03-17,Pandesal,Bakery,25,3,2,Cash
+2026-03-17,Royal Mismo,Beverages,1,20,16,Cash
+2026-03-17,Cellphone Load 100,Load,1,100,96,GCash
+2026-03-18,Nescafe 3-in-1,Beverages,6,9,7,Cash
+2026-03-18,Sky Flakes,Snacks,2,8,6,GCash
+2026-03-18,Pandesal,Bakery,19,3,2,GCash
+2026-03-19,Pandesal,Bakery,23,3,2,GCash
+2026-03-19,Kopiko 3-in-1,Beverages,9,8,6,Cash
+2026-03-19,Ice Candy,Snacks,10,5,3,Cash
+2026-03-20,Ice Candy,Snacks,4,5,3,Cash
+2026-03-20,Lucky Me Beef Noodles,Noodles,2,13,10,GCash
+2026-03-20,Ice Candy,Snacks,11,5,3,Cash
+2026-03-20,Lucky Me Pancit Canton,Noodles,3,15,12,Utang
+2026-03-20,Nescafe 3-in-1,Beverages,7,9,7,GCash
+2026-03-21,Sugar (kilo),Staples,3,70,64,GCash
+2026-03-21,Kopiko 3-in-1,Beverages,10,8,6,GCash
+2026-03-21,Royal Mismo,Beverages,5,20,16,Utang
+2026-03-21,Kopiko 3-in-1,Beverages,11,8,6,GCash
+2026-03-21,Piattos,Snacks,3,17,14,Utang
+2026-03-22,Lucky Me Pancit Canton,Noodles,6,15,12,Utang
+2026-03-22,Kopiko 3-in-1,Beverages,8,8,6,GCash
+2026-03-22,Kopiko 3-in-1,Beverages,4,8,6,GCash
+2026-03-22,Cooking Oil Pouch,Staples,1,25,21,GCash
+2026-03-22,Bottled Water 500ml,Beverages,3,15,11,Cash
+2026-03-22,Kopiko 3-in-1,Beverages,5,8,6,Cash
+2026-03-22,Sugar (kilo),Staples,1,70,64,Cash
+2026-03-22,Lucky Me Pancit Canton,Noodles,1,15,12,Cash
+2026-03-23,Pandesal,Bakery,22,3,2,GCash
+2026-03-23,Sky Flakes,Snacks,1,8,6,GCash
+2026-03-23,Sky Flakes,Snacks,3,8,6,GCash
+2026-03-24,Lucky Me Pancit Canton,Noodles,6,15,12,GCash
+2026-03-24,Cooking Oil Pouch,Staples,2,25,21,Utang
+2026-03-24,Cellphone Load 50,Load,1,50,47,GCash
+2026-03-24,Coke Mismo,Beverages,4,20,16,GCash
+2026-03-25,Coke Mismo,Beverages,2,20,16,Cash
+2026-03-25,Cooking Oil Pouch,Staples,4,25,21,Utang
+2026-03-25,Lucky Me Beef Noodles,Noodles,5,13,10,Utang
+2026-03-25,Pandesal,Bakery,14,3,2,GCash
+2026-03-25,Pandesal,Bakery,18,3,2,Utang
+2026-03-25,Cooking Oil Pouch,Staples,2,25,21,Utang
+2026-03-26,Tide Sachet,Household,8,12,9,Cash
+2026-03-26,Piattos,Snacks,5,17,14,Utang
+2026-03-26,Royal Mismo,Beverages,2,20,16,Cash
+2026-03-27,Datu Puti Soy Sauce,Staples,1,18,14,Utang
+2026-03-27,Coke Mismo,Beverages,4,20,16,Utang
+2026-03-27,Piattos,Snacks,4,17,14,Cash
+2026-03-27,Pandesal,Bakery,12,3,2,Cash
+2026-03-28,Nescafe 3-in-1,Beverages,2,9,7,Cash
+2026-03-28,Cellphone Load 100,Load,1,100,96,GCash
+2026-03-28,Lucky Me Pancit Canton,Noodles,3,15,12,Utang
+2026-03-28,Pandesal,Bakery,9,3,2,GCash
+2026-03-28,Pandesal,Bakery,24,3,2,Cash
+2026-03-28,Cellphone Load 100,Load,1,100,96,Cash
+2026-03-28,Lucky Me Pancit Canton,Noodles,6,15,12,GCash
+2026-03-29,Lucky Me Pancit Canton,Noodles,3,15,12,Cash
+2026-03-29,Lucky Me Pancit Canton,Noodles,2,15,12,Cash
+2026-03-29,Sugar (kilo),Staples,2,70,64,Cash
+2026-03-29,Datu Puti Soy Sauce,Staples,2,18,14,GCash
+2026-03-29,Cellphone Load 50,Load,1,50,47,GCash
+2026-03-29,Royal Mismo,Beverages,1,20,16,GCash
+2026-03-29,Coke Mismo,Beverages,4,20,16,Cash
+2026-03-29,Egg,Staples,11,9,7,Utang
+2026-03-29,Cellphone Load 100,Load,1,100,96,GCash
+2026-03-29,Pandesal,Bakery,25,3,2,Cash
+2026-03-30,Coke Mismo,Beverages,1,20,16,Cash
+2026-03-30,Cellphone Load 100,Load,1,100,96,GCash
+2026-03-30,Tide Sachet,Household,8,12,9,GCash
+2026-03-30,Rice (kilo),Staples,2,55,50,Cash
+2026-03-30,Tasty Bread,Bakery,1,65,55,GCash
+2026-03-30,Egg,Staples,14,9,7,GCash
+2026-03-30,Lucky Me Beef Noodles,Noodles,2,13,10,Cash
+2026-03-31,Cellphone Load 50,Load,1,50,47,Cash
+2026-03-31,Lucky Me Beef Noodles,Noodles,1,13,10,Cash
+2026-03-31,Kopiko 3-in-1,Beverages,8,8,6,Utang
+2026-03-31,Tasty Bread,Bakery,2,65,55,Cash
+2026-03-31,Tide Sachet,Household,4,12,9,Cash
+2026-03-31,Sugar (kilo),Staples,3,70,64,GCash
+2026-03-31,Lucky Me Pancit Canton,Noodles,3,15,12,Cash
+2026-03-31,Nescafe 3-in-1,Beverages,9,9,7,Utang

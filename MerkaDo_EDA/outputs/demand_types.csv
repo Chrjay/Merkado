@@ -1,0 +1,23 @@
+Product,ADI,CV2,Demand_type,Zero_sale_days_%,ABC,Suggested_model
+Pandesal,2.5,0.17,intermittent,60.0,A,Croston / moving average
+Ice Candy,2.9,0.2,intermittent,66.0,A,Croston / moving average
+Lucky Me Pancit Canton,3.21,0.27,intermittent,69.0,A,Croston / moving average
+Egg,3.21,0.1,intermittent,69.0,A,Croston / moving average
+Coke Mismo,3.6,0.46,intermittent,72.0,A,Croston / moving average
+Kopiko 3-in-1,3.6,0.3,intermittent,72.0,A,Croston / moving average
+Cellphone Load 50,3.75,0.04,intermittent,73.0,A,Croston / moving average
+Shampoo Sachet,3.91,0.42,intermittent,74.0,A,Croston / moving average
+Tide Sachet,4.09,0.16,intermittent,76.0,A,Croston / moving average
+Nescafe 3-in-1,4.5,0.29,intermittent,78.0,A,Croston / moving average
+Cellphone Load 100,4.74,0.1,intermittent,79.0,A,Croston / moving average
+Royal Mismo,5.29,0.26,intermittent,81.0,B,Croston / moving average
+Piattos,5.62,0.54,lumpy,82.0,B,Croston + safety buffer
+Rice (kilo),5.62,0.32,intermittent,82.0,A,Croston / moving average
+Sky Flakes,6.0,0.41,intermittent,83.0,B,Croston / moving average
+Lucky Me Beef Noodles,6.0,0.48,intermittent,83.0,C,Croston / moving average
+Sugar (kilo),6.43,0.34,intermittent,84.0,A,Croston / moving average
+Palmolive Soap,6.43,0.25,intermittent,84.0,B,Croston / moving average
+Tasty Bread,6.92,0.2,intermittent,86.0,A,Croston / moving average
+Datu Puti Soy Sauce,7.5,0.29,intermittent,87.0,C,Croston / moving average
+Bottled Water 500ml,8.18,0.17,intermittent,88.0,C,Croston / moving average
+Cooking Oil Pouch,8.18,0.45,intermittent,88.0,B,Croston / moving average

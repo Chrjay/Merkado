@@ -1,0 +1,23 @@
+Product,Units,Sales,Profit,Share_%,Cum_%,ABC
+Rice (kilo),61,3355,305,10.5,10.5,A
+Egg,317,2853,634,8.9,19.4,A
+Sugar (kilo),32,2240,192,7.0,26.4,A
+Cellphone Load 100,22,2200,88,6.9,33.3,A
+Pandesal,665,1995,665,6.2,39.5,A
+Coke Mismo,99,1980,396,6.2,45.7,A
+Lucky Me Pancit Canton,131,1965,393,6.1,51.8,A
+Kopiko 3-in-1,225,1800,450,5.6,57.4,A
+Tasty Bread,23,1495,230,4.7,62.1,A
+Tide Sachet,121,1452,363,4.5,66.6,A
+Shampoo Sachet,161,1288,322,4.0,70.6,A
+Nescafe 3-in-1,139,1251,278,3.9,74.5,A
+Cellphone Load 50,25,1250,75,3.9,78.4,A
+Ice Candy,242,1210,484,3.8,82.2,A
+Royal Mismo,60,1200,240,3.7,85.9,B
+Piattos,50,850,150,2.7,88.6,B
+Cooking Oil Pouch,34,850,136,2.7,91.3,B
+Palmolive Soap,27,810,162,2.5,93.8,B
+Sky Flakes,80,640,160,2.0,95.8,B
+Lucky Me Beef Noodles,42,546,126,1.7,97.5,C
+Datu Puti Soy Sauce,25,450,100,1.4,98.9,C
+Bottled Water 500ml,26,390,104,1.2,100.1,C

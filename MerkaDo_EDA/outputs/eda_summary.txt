@@ -1,0 +1,9 @@
+- Dataset: Aling Nena Q1 2026 (online PH proxy, code testing only)
+- Names: 22 raw -> 22 standard ({'exact': 22}).
+- 494 rows, 90 days, 22 products; 0 missing values; 5 duplicate rows (flagged).
+- 18 unusually high product-days to check; 0 closed and 0 unlogged days.
+- ABC: {'A': 14, 'B': 5, 'C': 3}; top 20% of items = 33% of sales.
+- Demand types: {'intermittent': 21, 'lumpy': 1}.
+- Regression: payday +7.9 units/day (p = 0.023), Sat +11.4, Sun +10.3 vs. Mon.
+- Baskets: DAY-LEVEL groups (no Trans_ID): NOT real customer baskets, code test only; single-item share 0.0%; 158 rules kept, 34 significant.
+- Best 7-day model: TOTAL (all products): Holt-Winters (MASE 0.52); Pandesal: Linear regression (MASE 0.78); Egg: Naive (last week) (MASE 1.03); Ice Candy: Holt-Winters (MASE 1.27); Kopiko 3-in-1: Holt-Winters (MASE 0.97); Shampoo Sachet: Holt-Winters (MASE 1.04); Nescafe 3-in-1: Croston (SBA) (MASE 1.14).

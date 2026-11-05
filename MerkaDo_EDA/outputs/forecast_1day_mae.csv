@@ -1,0 +1,8 @@
+,Naive (last week),7-day MA,Holt-Winters,Linear regression,Croston (SBA),Best
+TOTAL (all products),14.64,11.56,9.88,11.9,10.83,Holt-Winters
+Pandesal,12.64,10.81,10.15,11.35,10.23,Holt-Winters
+Egg,5.04,3.83,4.66,5.0,4.54,7-day MA
+Ice Candy,5.14,4.19,4.1,4.53,4.32,Holt-Winters
+Kopiko 3-in-1,4.71,4.68,3.96,4.42,4.01,Holt-Winters
+Shampoo Sachet,3.39,2.52,3.2,4.01,3.14,7-day MA
+Nescafe 3-in-1,3.25,2.94,3.03,2.4,2.51,Linear regression
