@@ -116,6 +116,8 @@ Edit **Section 0. Configuration** only. You don't need to change any other cell.
 | `SRP_PER_UNIT` | DTI SRP per selling unit. Include only exact brand and size matches from the 11 May 2026 bulletin |
 | `PAYDAY_DAYS` | Keep `{14, 15, 16, 29, 30, 31, 1}` unless the area's paydays differ |
 | `TOP_N` | Number of products to forecast individually (default 6) |
+| `DB_URL` | Supabase connection-pooler string for the read-only role `merkado_reader`, from the `MERKADO_DB_URL` env var or Colab Secrets. Never hard-code it. Leave empty to read `DATA_PATH` |
+| `BACKUP` | `True` saves a CSV of every `reporting` view (`v_*`, `raw_*`) to `outputs/backup/<date>/` on each database read |
 
 Leave `HOLDOUT_DAYS`, `MIN_SELLING_DAYS`, `MIN_PAIR_BASKETS`, `CROSTON_ALPHA` and `INTERVAL` at their defaults.
 
@@ -194,6 +196,7 @@ Write each item as one short Taglish line, e.g. "Mag-stock ng ~49 Kopiko 3-in-1 
 | "Day-level groups" warning in Section 7 | No `Trans_ID` column | Log `Trans_ID`. Without it, the bundle results can't be used |
 | "fewer than 8 backtest weeks" note | Short log | Expected in Weeks 3–7. Report the range as rough |
 | Holt-Winters falls back to the moving average | Fewer than 14 days | Wait until Week 3 for forecasts |
+| "Could not reach the database" message | The Supabase project may be paused | Open the dashboard and click Restore, then run again. The notebook falls back to `DATA_PATH` |
 
 ---
 

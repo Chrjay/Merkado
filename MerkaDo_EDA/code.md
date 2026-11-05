@@ -72,7 +72,8 @@ The notebook runs top to bottom, and each section uses variables from the ones b
 
 | # | Section | Key code | Output |
 |---|---|---|---|
-| 0 | Configuration | `DATA_PATH`, `COLUMN_MAP`, `ALIASES`, `PACK_TABLE`, `SRP_PER_UNIT`, `PAYDAY_DAYS`, thresholds | — |
+| 0 | Configuration | `DATA_PATH`, `COLUMN_MAP`, `ALIASES`, `PACK_TABLE`, `SRP_PER_UNIT`, `PAYDAY_DAYS`, `DB_URL` (from `MERKADO_DB_URL`, the pooler string of the read-only role `merkado_reader`), `BACKUP`, thresholds | — |
+| 0b | Database read | `from_db()` in `merkado_db.py` reads the `reporting` views when `DB_URL` is set; writes a CSV backup of every `v_*`/`raw_*` view to `outputs/backup/<date>/`; falls back to `DATA_PATH` if unreachable | `raw`, `STOCK` |
 | 1 | Load and standardize | `pd.read_csv` → `rename(COLUMN_MAP)` → `HAS` dict of optional columns; `Store_Open` splits closed days off | `df` |
 | 1b | Names and pack units | `norm()`, `close_match()`, `standardize()`; `Base_Qty = Qty × pack multiplier` | `name_mapping.csv` |
 | 2 | Data quality | Missing values, duplicates (removed if `Trans_ID` exists, else flagged), unlogged days filled with the same-weekday average, IQR outliers, price vs. cost and SRP | `daily` (date × product matrix) |
@@ -100,6 +101,8 @@ The notebook runs top to bottom, and each section uses variables from the ones b
 | `fc(model, train, h, X)` | Model name, history, horizon, features → h-day forecast | One interface for all 5 models; Holt-Winters falls back to the 7-day MA if fitting fails. For future days, rain = past rainy-day share and stockout = 0 (no peeking at the future) |
 | `backtest(y, H, h)` | Series, test window, horizon → MAE, bias, MASE, errors | Re-fits at every origin; MASE is scaled by the naive model's in-sample error |
 | `fisher_p(a, c)` | Rule → one-sided p-value | Is the pair bought together more often than chance? |
+| `events_to_log(sales, events, stock, products)` | DB view frames → log-style DataFrame + stock dict | Pure function in `merkado_db.py`; adds `Stockout_Flag`, `Is_Rainy`, `Store_Open` columns and synthetic rows only when matching day-events exist |
+| `from_db(url, out, backup)` | Supabase pooler URL → same as `events_to_log` | Reads `reporting.v_*` views; with `backup=True` first dumps every `reporting` view to `out/backup/<date>/` |
 
 ### Forecast models
 

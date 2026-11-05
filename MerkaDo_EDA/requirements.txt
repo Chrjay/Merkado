@@ -6,4 +6,6 @@ scipy==1.15.3
 statsmodels==0.15.0
 scikit-learn==1.7.2
 mlxtend==0.23.4
+sqlalchemy==2.1.8
+psycopg2-binary==2.9.13
 jupyter
