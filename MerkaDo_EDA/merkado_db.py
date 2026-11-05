@@ -96,6 +96,13 @@ def events_to_log(sales_log, day_events, stock_latest, products=None):
     return out, stock
 
 
+def _read(conn, sql):
+    # pd.read_sql on a SA connection trips a pandas-3/psycopg2 params bug; go through SA text().
+    import sqlalchemy as sa
+    res = conn.execute(sa.text(sql))
+    return pd.DataFrame(res.all(), columns=list(res.keys()))
+
+
 def from_db(url, out=Path('outputs'), backup=True):
     import sqlalchemy as sa
     # Supabase gives postgresql:// URIs; we ship psycopg2-binary, so pick that driver explicitly.
@@ -105,14 +112,14 @@ def from_db(url, out=Path('outputs'), backup=True):
     engine = sa.create_engine(url)
     try:
         with engine.connect() as conn:
-            frames = {v: pd.read_sql(f'select * from reporting.{v}', conn) for v in VIEWS}
+            frames = {v: _read(conn, f'select * from reporting.{v}') for v in VIEWS}
             backups = {}
             if backup:
-                names = pd.read_sql(
-                    "select table_name from information_schema.views "
-                    "where table_schema='reporting' and "
-                    "(table_name like 'v\\_%' or table_name like 'raw\\_%') order by 1", conn)
-                backups = {n: pd.read_sql(f'select * from reporting."{n}"', conn)
+                names = _read(conn,
+                              "select table_name from information_schema.views "
+                              "where table_schema='reporting' and "
+                              "(table_name like 'v\\_%' or table_name like 'raw\\_%') order by 1")
+                backups = {n: _read(conn, f'select * from reporting."{n}"')
                            for n in names['table_name']}
         if backups:
             dest = Path(out) / 'backup' / dt.date.today().isoformat()

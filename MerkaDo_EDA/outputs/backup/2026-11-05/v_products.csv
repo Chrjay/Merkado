@@ -1,0 +1,26 @@
+Product_ID,Product,Unit,Pack_Multiplier,Price,Sort_Order,Active
+1,Pandesal,pc,1,3.00,1,True
+2,Egg,pc,1,9.00,2,True
+3,Ice Candy,pc,1,5.00,3,True
+4,Kopiko 3-in-1,pc,1,8.00,4,True
+5,Shampoo Sachet,pc,1,8.00,5,True
+6,Nescafe 3-in-1,pc,1,9.00,6,True
+7,Lucky Me Pancit Canton,pc,1,15.00,7,True
+8,Tide Sachet,pc,1,12.00,8,True
+9,Coke Mismo,pc,1,20.00,9,True
+10,Sky Flakes,pc,1,8.00,10,True
+11,Rice,kilo,1,55.00,11,True
+12,Royal Mismo,pc,1,20.00,12,True
+13,Piattos,pc,1,17.00,13,True
+14,Lucky Me Beef Noodles,pc,1,13.00,14,True
+15,Cooking Oil Pouch,pc,1,25.00,15,True
+16,Sugar,kilo,1,70.00,16,True
+17,Palmolive Soap,pc,1,30.00,17,True
+18,Bottled Water 500ml,pc,1,15.00,18,True
+19,Cellphone Load 50,pc,1,50.00,19,True
+20,Datu Puti Soy Sauce,pc,1,18.00,20,True
+21,Tasty Bread,pc,1,65.00,21,True
+22,Cellphone Load 100,pc,1,100.00,22,True
+23,Pandesal,bag,10,30.00,23,True
+24,Shampoo Sachet,banig,12,96.00,24,True
+25,Kopiko 3-in-1,banig,12,96.00,25,True
