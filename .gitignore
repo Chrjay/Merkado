@@ -8,3 +8,4 @@ dist/
 merkado-app/test-results/
 merkado-app/playwright-report/
 .vercel
+.orca/

@@ -1,0 +1,1 @@
+-- Baseline: see ../schema.sql (run schema.sql on a fresh project; later changes go in numbered migrations here).
