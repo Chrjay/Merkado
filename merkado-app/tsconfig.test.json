@@ -4,8 +4,9 @@
     "target": "es2023",
     "lib": ["ES2023", "DOM"],
     "module": "esnext",
-    "types": ["vitest/globals", "node", "@testing-library/jest-dom"],
+    "types": ["vitest/globals", "node", "@testing-library/jest-dom", "vite/client", "vite-plugin-pwa/client"],
     "skipLibCheck": true,
+    "allowArbitraryExtensions": true,
 
     "moduleResolution": "bundler",
     "allowImportingTsExtensions": true,
@@ -21,5 +22,5 @@
     "noFallthroughCasesInSwitch": true,
     "composite": true
   },
-  "include": ["tests"]
+  "include": ["tests", "src"]
 }
