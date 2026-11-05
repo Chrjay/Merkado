@@ -1,0 +1,175 @@
+/* Scene: owner behind a sari-sari counter, phone in one hand, often in direct
+   daylight, logging a sale in a few seconds between customers. Light, high
+   contrast, large targets, no decoration. */
+
+:root {
+  color-scheme: light;
+
+  /* Brand teal (#0f766e family) */
+  --teal-50: oklch(0.97 0.018 184);
+  --teal-100: oklch(0.93 0.04 184);
+  --teal-200: oklch(0.86 0.07 184);
+  --teal-600: oklch(0.51 0.086 186);
+  --teal-700: oklch(0.45 0.08 187);
+  --teal-800: oklch(0.38 0.068 188);
+
+  /* Warm neutrals, tinted toward the paper-bag hue of the store */
+  --sand-0: oklch(0.995 0.003 85);
+  --sand-50: oklch(0.977 0.007 85);
+  --sand-100: oklch(0.955 0.01 85);
+  --sand-200: oklch(0.91 0.012 85);
+  --sand-300: oklch(0.84 0.014 85);
+  --sand-500: oklch(0.6 0.014 80);
+  --sand-600: oklch(0.5 0.014 75);
+  --sand-800: oklch(0.31 0.012 70);
+  --sand-900: oklch(0.21 0.01 70);
+
+  /* Utang accent (credit is the one payment that needs a second look) */
+  --clay-50: oklch(0.965 0.025 50);
+  --clay-100: oklch(0.92 0.05 50);
+  --clay-600: oklch(0.54 0.15 42);
+  --clay-700: oklch(0.47 0.14 40);
+
+  --red-50: oklch(0.965 0.02 25);
+  --red-600: oklch(0.52 0.19 27);
+  --red-700: oklch(0.45 0.17 27);
+  --amber-50: oklch(0.97 0.04 90);
+  --amber-200: oklch(0.88 0.1 88);
+  --amber-800: oklch(0.42 0.09 70);
+
+  /* Roles */
+  --bg: var(--sand-50);
+  --surface: var(--sand-0);
+  --surface-sunk: var(--sand-100);
+  --border: var(--sand-300);
+  --border-strong: var(--sand-500);
+  --text: var(--sand-900);
+  --text-muted: var(--sand-600);
+  --primary: var(--teal-700);
+  --primary-hover: var(--teal-800);
+  --primary-soft: var(--teal-50);
+  --on-primary: var(--sand-0);
+  --utang: var(--clay-600);
+  --utang-soft: var(--clay-50);
+  --danger: var(--red-600);
+  --danger-soft: var(--red-50);
+  --warn-bg: var(--amber-50);
+  --warn-border: var(--amber-200);
+  --warn-text: var(--amber-800);
+  --focus: var(--teal-600);
+
+  /* Type: system stack, fixed rem scale (~1.2) */
+  --font: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  --fs-sm: 0.9375rem; /* 15 */
+  --fs-base: 1.0625rem; /* 17 */
+  --fs-lg: 1.25rem; /* 20 */
+  --fs-xl: 1.5rem; /* 24 */
+  --fs-2xl: 2rem; /* 32 */
+
+  /* Space */
+  --s-1: 4px;
+  --s-2: 8px;
+  --s-3: 12px;
+  --s-4: 16px;
+  --s-5: 20px;
+  --s-6: 24px;
+  --s-8: 32px;
+
+  /* Shape */
+  --r-sm: 8px;
+  --r-md: 12px;
+  --r-lg: 16px;
+  --r-full: 999px;
+  --target: 48px;
+  --target-lg: 56px;
+
+  --shadow-1: 0 0 0 1px oklch(0.21 0.01 70 / 0.08), 0 1px 2px oklch(0.21 0.01 70 / 0.06);
+  --shadow-2: 0 0 0 1px oklch(0.21 0.01 70 / 0.06), 0 2px 4px oklch(0.21 0.01 70 / 0.06),
+    0 8px 24px oklch(0.21 0.01 70 / 0.1);
+
+  --ease-out: cubic-bezier(0.2, 0, 0, 1);
+  --tabbar-h: 64px;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  min-height: 100dvh;
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font);
+  font-size: var(--fs-base);
+  line-height: 1.45;
+  -webkit-font-smoothing: antialiased;
+  -webkit-tap-highlight-color: transparent;
+  overflow-x: hidden;
+}
+
+h1,
+h2,
+h3,
+p {
+  margin: 0;
+}
+
+h1,
+h2,
+h3 {
+  line-height: 1.2;
+  text-wrap: balance;
+}
+
+button,
+input,
+select,
+textarea {
+  font: inherit;
+  color: inherit;
+}
+
+button {
+  cursor: pointer;
+}
+
+button:disabled {
+  cursor: not-allowed;
+}
+
+:focus-visible {
+  outline: 3px solid var(--focus);
+  outline-offset: 2px;
+}
+
+.tabular {
+  font-variant-numeric: tabular-nums;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
+  }
+}

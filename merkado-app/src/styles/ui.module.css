@@ -1,0 +1,200 @@
+/* Shared vocabulary: every screen uses these, so a save button looks the same everywhere. */
+
+.screen {
+  width: 100%;
+  max-width: 640px;
+  margin-inline: auto;
+  padding: var(--s-4) var(--s-4) calc(var(--tabbar-h) + var(--s-6) + env(safe-area-inset-bottom));
+  display: flex;
+  flex-direction: column;
+  gap: var(--s-5);
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--s-3);
+  min-height: var(--target);
+}
+
+.title {
+  font-size: var(--fs-xl);
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+.sectionTitle {
+  font-size: var(--fs-lg);
+  font-weight: 650;
+}
+
+.muted {
+  color: var(--text-muted);
+  font-size: var(--fs-sm);
+}
+
+.section {
+  display: flex;
+  flex-direction: column;
+  gap: var(--s-3);
+}
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--s-2);
+  min-height: var(--target);
+  padding: 0 var(--s-5);
+  border-radius: var(--r-md);
+  border: 1px solid transparent;
+  font-size: var(--fs-base);
+  font-weight: 600;
+  line-height: 1.1;
+  text-align: center;
+  user-select: none;
+  transition-property: scale, background-color, color, border-color, opacity;
+  transition-duration: 150ms;
+  transition-timing-function: ease-out;
+}
+
+.btn:disabled {
+  opacity: 0.45;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .btn:not(:disabled):active {
+    scale: 0.96;
+  }
+}
+
+.btn svg {
+  flex: none;
+}
+
+.primary {
+  background: var(--primary);
+  color: var(--on-primary);
+}
+
+.secondary {
+  background: var(--surface);
+  color: var(--text);
+  border-color: var(--border-strong);
+}
+
+.danger {
+  background: var(--danger);
+  color: var(--on-primary);
+}
+
+.dangerGhost {
+  background: transparent;
+  color: var(--danger);
+  border-color: currentColor;
+}
+
+.ghost {
+  background: transparent;
+  color: var(--primary);
+}
+
+@media (hover: hover) {
+  .primary:not(:disabled):hover {
+    background: var(--primary-hover);
+  }
+  .secondary:not(:disabled):hover {
+    background: var(--surface-sunk);
+  }
+  .danger:not(:disabled):hover {
+    background: var(--red-700);
+  }
+  .ghost:not(:disabled):hover,
+  .dangerGhost:not(:disabled):hover {
+    background: var(--surface-sunk);
+  }
+}
+
+.large {
+  min-height: var(--target-lg);
+  font-size: var(--fs-lg);
+  border-radius: var(--r-lg);
+}
+
+.block {
+  width: 100%;
+}
+
+.iconBtn {
+  padding: 0;
+  width: var(--target);
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: var(--s-2);
+}
+
+.label {
+  font-weight: 600;
+}
+
+.input {
+  min-height: var(--target);
+  width: 100%;
+  padding: 0 var(--s-3);
+  border: 1px solid var(--border-strong);
+  border-radius: var(--r-md);
+  background: var(--surface);
+  font-size: var(--fs-base);
+}
+
+.input:focus-visible {
+  outline-offset: 0;
+  border-color: var(--focus);
+}
+
+.error {
+  color: var(--danger);
+  font-weight: 600;
+}
+
+.notice {
+  display: flex;
+  gap: var(--s-3);
+  align-items: flex-start;
+  padding: var(--s-3) var(--s-4);
+  border-radius: var(--r-md);
+  border: 1px solid var(--warn-border);
+  background: var(--warn-bg);
+  color: var(--warn-text);
+  font-weight: 500;
+}
+
+.notice svg {
+  flex: none;
+  margin-top: 2px;
+}
+
+.noticeDanger {
+  border-color: oklch(0.85 0.06 25);
+  background: var(--danger-soft);
+  color: var(--red-700);
+}
+
+.panel {
+  background: var(--surface);
+  border-radius: var(--r-lg);
+  box-shadow: var(--shadow-1);
+  border: 1px solid transparent;
+}
+
+.empty {
+  padding: var(--s-6) var(--s-4);
+  text-align: center;
+  color: var(--text-muted);
+  border: 1px dashed var(--border);
+  border-radius: var(--r-lg);
+}

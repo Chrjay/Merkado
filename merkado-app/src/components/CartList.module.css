@@ -1,0 +1,74 @@
+.list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.line {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  grid-template-areas:
+    'info info'
+    'stepper total';
+  align-items: center;
+  gap: var(--s-2) var(--s-3);
+  padding: var(--s-3) 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.line:last-child {
+  border-bottom: 0;
+}
+
+@media (min-width: 480px) {
+  .line {
+    grid-template-columns: minmax(0, 1fr) auto auto;
+    grid-template-areas: 'info stepper total';
+  }
+}
+
+.info {
+  grid-area: info;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+
+.name {
+  font-weight: 600;
+  overflow-wrap: anywhere;
+}
+
+.stepper {
+  grid-area: stepper;
+  display: flex;
+  align-items: center;
+  gap: var(--s-1);
+}
+
+.qty {
+  min-width: var(--target);
+  min-height: var(--target);
+  padding: 0 var(--s-2);
+  border: 0;
+  border-radius: var(--r-sm);
+  background: transparent;
+  font-size: var(--fs-lg);
+  font-weight: 700;
+}
+
+@media (hover: hover) {
+  .qty:hover {
+    background: var(--surface-sunk);
+  }
+}
+
+.total {
+  grid-area: total;
+  justify-self: end;
+  font-weight: 650;
+  min-width: 5.5ch;
+  text-align: end;
+}

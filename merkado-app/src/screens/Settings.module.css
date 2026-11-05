@@ -1,0 +1,39 @@
+.group {
+  padding-bottom: var(--s-5);
+  border-bottom: 1px solid var(--border);
+}
+
+.inline {
+  display: flex;
+  gap: var(--s-2);
+}
+
+.inline > input {
+  flex: 1;
+  min-width: 0;
+}
+
+.inline > button {
+  flex: none;
+}
+
+.email {
+  font-weight: 600;
+  overflow-wrap: anywhere;
+}
+
+.version {
+  text-align: center;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .spin {
+    animation: spin 1s linear infinite;
+  }
+}
+
+@keyframes spin {
+  to {
+    rotate: 360deg;
+  }
+}

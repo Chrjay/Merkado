@@ -1,0 +1,54 @@
+.banner {
+  position: fixed;
+  inset-inline: var(--s-3);
+  bottom: calc(var(--tabbar-h) + var(--s-3) + env(safe-area-inset-bottom));
+  z-index: 30;
+  max-width: 616px;
+  margin-inline: auto;
+  display: flex;
+  align-items: center;
+  gap: var(--s-1);
+  padding: var(--s-1);
+  border-radius: var(--r-lg);
+  border: 1px solid transparent;
+  background: var(--sand-900);
+  color: var(--sand-0);
+  box-shadow: var(--shadow-2);
+}
+
+.update,
+.close {
+  min-height: var(--target);
+  border: 0;
+  border-radius: var(--r-md);
+  background: transparent;
+  color: inherit;
+  font-weight: 650;
+}
+
+.update {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  gap: var(--s-2);
+  padding: 0 var(--s-3);
+  text-align: start;
+}
+
+.close {
+  width: var(--target);
+  display: grid;
+  place-items: center;
+}
+
+@media (hover: hover) {
+  .update:hover,
+  .close:hover {
+    background: oklch(1 0 0 / 0.1);
+  }
+}
+
+.update:focus-visible,
+.close:focus-visible {
+  outline-color: var(--teal-200);
+}

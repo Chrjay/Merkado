@@ -1,0 +1,125 @@
+.dayActions {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: var(--s-3);
+}
+
+.dayButton {
+  min-height: 112px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--s-2);
+  padding: var(--s-4);
+  border-radius: var(--r-lg);
+  border: 1px solid var(--border-strong);
+  background: var(--surface);
+  color: var(--primary);
+  text-align: start;
+  transition-property: scale, background-color, border-color;
+  transition-duration: 150ms;
+  transition-timing-function: ease-out;
+}
+
+.closed {
+  color: var(--sand-800);
+}
+
+.dayLabel {
+  color: var(--text);
+  font-size: var(--fs-lg);
+  font-weight: 700;
+  line-height: 1.15;
+}
+
+.dayState {
+  color: var(--teal-800);
+  font-size: var(--fs-sm);
+  font-weight: 600;
+}
+
+.dayButton[data-done='true'] {
+  background: var(--teal-50);
+  border-color: var(--teal-200);
+  color: var(--teal-800);
+  cursor: default;
+}
+
+@media (hover: hover) {
+  .dayButton:not(:disabled):hover {
+    background: var(--surface-sunk);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .dayButton:not(:disabled):active {
+    scale: 0.96;
+  }
+}
+
+.sectionHead {
+  display: flex;
+  align-items: center;
+  gap: var(--s-2);
+}
+
+.sectionIcon {
+  color: var(--utang);
+}
+
+.checklist {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  background: var(--surface);
+  border-radius: var(--r-lg);
+  border: 1px solid var(--border);
+  overflow: hidden;
+}
+
+.checklist > li + li {
+  border-top: 1px solid var(--border);
+}
+
+.checkRow {
+  min-height: 56px;
+  display: flex;
+  align-items: center;
+  gap: var(--s-3);
+  padding: var(--s-2) var(--s-4);
+  cursor: pointer;
+}
+
+.checkRow[data-done='true'] {
+  cursor: default;
+  background: var(--surface-sunk);
+}
+
+@media (hover: hover) {
+  .checkRow:not([data-done='true']):hover {
+    background: var(--sand-50);
+  }
+}
+
+.checkbox {
+  flex: none;
+  width: 24px;
+  height: 24px;
+  margin: 0;
+  accent-color: var(--primary);
+}
+
+.checkName {
+  flex: 1;
+  min-width: 0;
+  font-weight: 600;
+  overflow-wrap: anywhere;
+}
+
+.tag {
+  flex: none;
+  font-size: var(--fs-sm);
+  font-weight: 600;
+  color: var(--teal-800);
+}

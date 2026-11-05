@@ -1,0 +1,37 @@
+.list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  background: var(--surface);
+  border-radius: var(--r-lg);
+  border: 1px solid var(--border);
+}
+
+.row {
+  display: flex;
+  align-items: center;
+  gap: var(--s-3);
+  padding: var(--s-2) var(--s-3) var(--s-2) var(--s-4);
+  min-height: 64px;
+}
+
+.row + .row {
+  border-top: 1px solid var(--border);
+}
+
+.name {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  font-weight: 600;
+  overflow-wrap: anywhere;
+}
+
+.count {
+  flex: none;
+  width: 88px;
+  text-align: end;
+  font-size: var(--fs-lg);
+  font-weight: 650;
+}

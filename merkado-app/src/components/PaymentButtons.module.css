@@ -1,0 +1,56 @@
+.group {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: var(--s-2);
+}
+
+.option {
+  --tone: var(--primary);
+  --tone-soft: var(--primary-soft);
+  min-height: var(--target-lg);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2px;
+  padding: var(--s-1) var(--s-2);
+  border-radius: var(--r-md);
+  border: 1px solid var(--border-strong);
+  background: var(--surface);
+  color: var(--text);
+  font-weight: 650;
+  transition-property: scale, background-color, border-color, color;
+  transition-duration: 150ms;
+  transition-timing-function: ease-out;
+}
+
+.option[data-payment='Utang'] {
+  --tone: var(--utang);
+  --tone-soft: var(--utang-soft);
+}
+
+.option svg {
+  color: var(--tone);
+}
+
+.option[aria-pressed='true'] {
+  background: var(--tone);
+  border-color: var(--tone);
+  color: var(--on-primary);
+}
+
+.option[aria-pressed='true'] svg {
+  color: currentColor;
+}
+
+@media (hover: hover) {
+  .option[aria-pressed='false']:hover {
+    background: var(--tone-soft);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .option:active {
+    scale: 0.96;
+  }
+}

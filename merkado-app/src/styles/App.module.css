@@ -1,0 +1,10 @@
+.main {
+  min-height: 100dvh;
+}
+
+.splash {
+  min-height: 100dvh;
+  display: grid;
+  place-items: center;
+  color: var(--primary);
+}

@@ -1,0 +1,81 @@
+.bar {
+  position: fixed;
+  inset-inline: 0;
+  bottom: 0;
+  z-index: 20;
+  background: var(--surface);
+  border-top: 1px solid var(--border);
+  padding-bottom: env(safe-area-inset-bottom);
+}
+
+.list {
+  list-style: none;
+  margin: 0 auto;
+  padding: 0 var(--s-1);
+  max-width: 640px;
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+}
+
+.tab {
+  width: 100%;
+  min-height: var(--tabbar-h);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2px;
+  padding: var(--s-1) 0;
+  border: 0;
+  background: transparent;
+  color: var(--text-muted);
+  font-size: 0.8125rem;
+  font-weight: 600;
+}
+
+.tab[aria-current='page'] {
+  color: var(--primary);
+}
+
+.iconWrap {
+  position: relative;
+  display: grid;
+  place-items: center;
+  width: 56px;
+  height: 32px;
+  border-radius: var(--r-full);
+}
+
+.tab[aria-current='page'] .iconWrap {
+  background: var(--teal-100);
+}
+
+.label {
+  max-width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.count {
+  position: absolute;
+  top: -4px;
+  inset-inline-end: 4px;
+  min-width: 20px;
+  height: 20px;
+  padding: 0 5px;
+  display: grid;
+  place-items: center;
+  border-radius: var(--r-full);
+  background: var(--utang);
+  color: var(--on-primary);
+  font-size: 0.75rem;
+  font-weight: 700;
+  line-height: 1;
+  box-shadow: 0 0 0 2px var(--surface);
+}
+
+.tab:focus-visible {
+  outline-offset: -3px;
+  border-radius: var(--r-md);
+}

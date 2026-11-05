@@ -1,0 +1,37 @@
+.screen {
+  /* Room for the sticky checkout panel above the tab bar */
+  padding-bottom: calc(var(--tabbar-h) + var(--s-3) + env(safe-area-inset-bottom));
+}
+
+.checkout {
+  position: sticky;
+  bottom: calc(var(--tabbar-h) + env(safe-area-inset-bottom));
+  z-index: 10;
+  margin-inline: calc(-1 * var(--s-4));
+  padding: var(--s-3) var(--s-4);
+  display: flex;
+  flex-direction: column;
+  gap: var(--s-3);
+  background: var(--surface);
+  border-top: 1px solid var(--border);
+  box-shadow: 0 -8px 24px oklch(0.21 0.01 70 / 0.06);
+}
+
+.totalRow {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: var(--s-3);
+}
+
+.total {
+  font-size: var(--fs-2xl);
+  font-weight: 750;
+  letter-spacing: -0.01em;
+  line-height: 1;
+}
+
+.hint {
+  text-align: center;
+  margin-top: calc(-1 * var(--s-1));
+}
